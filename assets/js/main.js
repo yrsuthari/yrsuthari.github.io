@@ -13,6 +13,9 @@ currentYearSpan.textContent = new Date().getFullYear();
 window.addEventListener('load', () => {
     loadingOverlay.classList.add('hidden');
     document.body.style.overflow = 'visible';
+    
+    // Start observing elements after page load
+    initializeAnimations();
 });
 
 // Navigation
@@ -58,27 +61,28 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
     });
 });
 
-// Intersection Observer for animations
-const observerOptions = {
-    root: null,
-    rootMargin: '0px',
-    threshold: 0.1
-};
+// Initialize animations
+function initializeAnimations() {
+    const observerOptions = {
+        root: null,
+        rootMargin: '0px',
+        threshold: 0.1
+    };
 
-const observer = new IntersectionObserver((entries) => {
-    entries.forEach(entry => {
-        if (entry.isIntersecting) {
-            entry.target.classList.add('slide-up');
-            observer.unobserve(entry.target);
-        }
+    const observer = new IntersectionObserver((entries) => {
+        entries.forEach(entry => {
+            if (entry.isIntersecting) {
+                entry.target.classList.add('slide-up');
+                observer.unobserve(entry.target);
+            }
+        });
+    }, observerOptions);
+
+    // Observe elements for animation
+    document.querySelectorAll('.skill-card, .cert-card, .project-card').forEach(el => {
+        observer.observe(el);
     });
-}, observerOptions);
-
-// Observe elements for animation
-document.querySelectorAll('.skill-card, .cert-card, .project-card').forEach(el => {
-    el.style.opacity = '0';
-    observer.observe(el);
-});
+}
 
 // Form validation and submission
 function validateEmail(email) {
@@ -163,31 +167,4 @@ contactForm.querySelectorAll('input, textarea').forEach(input => {
     input.addEventListener('input', () => {
         clearError(input);
     });
-});
-
-// Lazy loading images
-document.addEventListener('DOMContentLoaded', () => {
-    const lazyImages = document.querySelectorAll('img[loading="lazy"]');
-    
-    if ('loading' in HTMLImageElement.prototype) {
-        // Browser supports native lazy loading
-        lazyImages.forEach(img => {
-            img.src = img.dataset.src;
-        });
-    } else {
-        // Fallback for browsers that don't support lazy loading
-        const imageObserver = new IntersectionObserver((entries, observer) => {
-            entries.forEach(entry => {
-                if (entry.isIntersecting) {
-                    const img = entry.target;
-                    img.src = img.dataset.src;
-                    observer.unobserve(img);
-                }
-            });
-        });
-
-        lazyImages.forEach(img => {
-            imageObserver.observe(img);
-        });
-    }
 }); 

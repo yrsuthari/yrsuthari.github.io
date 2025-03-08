@@ -49,7 +49,7 @@
                 <a href="#about" class="nav-link">About</a>
                 <a href="#skills" class="nav-link">Skills</a>
                 <a href="#certifications" class="nav-link">Certifications</a>
-                <a href="#projects" class="nav-link">Projects</a>
+                <a href="#projects" class="nav-link">Open Source</a>
                 <a href="#contact" class="nav-link">Contact</a>
             </div>
         </div>
@@ -60,19 +60,20 @@
         <div class="container hero-container">
             <div class="hero-content">
                 <div class="hero-image-wrapper">
-                    <img src="assets/images/profile.jpg" alt="Yogi Suthari" class="hero-image" loading="eager">
+                    <img src="assets/images/profile.jpg" alt="Yogi Suthari" class="hero-image">
                 </div>
                 <div class="hero-text">
+                    <span class="hero-greeting">Hello, I'm</span>
                     <h1 class="hero-title">Yogi Suthari</h1>
-                    <h2 class="hero-subtitle">Software Engineer</h2>
+                    <h2 class="hero-subtitle">Cloud Native Engineer</h2>
                     <p class="hero-location">
                         <i class="fas fa-location-dot" aria-hidden="true"></i>
                         <span>Bangalore, India</span>
                     </p>
                     <p class="hero-summary">
-                        Passionate Software Engineer with expertise in building scalable applications 
-                        and cloud solutions. Focused on creating efficient, user-centric software 
-                        that solves real-world problems.
+                        A passionate Cloud Native Engineer with expertise in Kubernetes, Cloud Architecture, 
+                        and Open Source. Contributing to major CNCF projects and building scalable, 
+                        secure cloud infrastructure solutions.
                     </p>
                     <div class="hero-cta">
                         <a href="assets/files/YogiSuthari-Resume.pdf" class="btn btn-primary" download>
@@ -80,18 +81,32 @@
                             <i class="fas fa-download" aria-hidden="true"></i>
                         </a>
                         <div class="hero-social">
-                            <a href="https://linkedin.com/in/yogi-suthari" class="social-link" aria-label="LinkedIn Profile">
+                            <a href="https://linkedin.com/in/yogi-suthari" class="social-link" aria-label="LinkedIn Profile" target="_blank" rel="noopener noreferrer">
                                 <i class="fab fa-linkedin" aria-hidden="true"></i>
                             </a>
-                            <a href="https://github.com/yrsuthari" class="social-link" aria-label="GitHub Profile">
+                            <a href="https://github.com/yrsuthari" class="social-link" aria-label="GitHub Profile" target="_blank" rel="noopener noreferrer">
                                 <i class="fab fa-github" aria-hidden="true"></i>
                             </a>
-                            <a href="https://twitter.com/yrsuthari" class="social-link" aria-label="Twitter Profile">
+                            <a href="https://twitter.com/yrsuthari" class="social-link" aria-label="Twitter Profile" target="_blank" rel="noopener noreferrer">
                                 <i class="fab fa-twitter" aria-hidden="true"></i>
                             </a>
                             <a href="mailto:contact@yogisuthari.dev" class="social-link" aria-label="Email">
                                 <i class="fas fa-envelope" aria-hidden="true"></i>
                             </a>
+                        </div>
+                    </div>
+                    <div class="hero-stats">
+                        <div class="stat-item">
+                            <span class="stat-number">4+</span>
+                            <span class="stat-label">Years of Experience</span>
+                        </div>
+                        <div class="stat-item">
+                            <span class="stat-number">3</span>
+                            <span class="stat-label">CNCF Projects</span>
+                        </div>
+                        <div class="stat-item">
+                            <span class="stat-number">4</span>
+                            <span class="stat-label">Cloud Certifications</span>
                         </div>
                     </div>
                 </div>
@@ -185,7 +200,7 @@
             <h2 class="section-title">Professional Certifications</h2>
             <div class="cert-grid">
                 <div class="cert-card">
-                    <img src="assets/images/aws-cert.svg" alt="AWS Solutions Architect Professional" class="cert-logo" loading="lazy">
+                    <img src="assets/images/aws-cert.svg" alt="AWS Solutions Architect Professional" class="cert-logo">
                     <h3>AWS Solutions Architect</h3>
                     <p>Professional Level</p>
                     <a href="https://www.credly.com/badges/fd350c85-5882-4ea9-aaa9-9204d0972f7a/public_url" 
@@ -197,7 +212,7 @@
                     </a>
                 </div>
                 <div class="cert-card">
-                    <img src="assets/images/gcp-cert.svg" alt="GCP Professional Cloud Security Engineer" class="cert-logo" loading="lazy">
+                    <img src="assets/images/gcp-cert.svg" alt="GCP Professional Cloud Security Engineer" class="cert-logo">
                     <h3>Google Cloud Professional</h3>
                     <p>Security Engineer</p>
                     <a href="https://www.credly.com/badges/e2f088be-1eb1-451e-96c1-6a9faa737ef7/public_url" 
@@ -209,7 +224,7 @@
                     </a>
                 </div>
                 <div class="cert-card">
-                    <img src="assets/images/azure-cert.svg" alt="Azure Solutions Architect Expert" class="cert-logo" loading="lazy">
+                    <img src="assets/images/azure-cert.svg" alt="Azure Solutions Architect Expert" class="cert-logo">
                     <h3>Azure Solutions Architect</h3>
                     <p>Expert Level</p>
                     <a href="https://learn.microsoft.com/en-us/users/45987438/credentials/a8094062b89904c9" 
@@ -221,7 +236,7 @@
                     </a>
                 </div>
                 <div class="cert-card">
-                    <img src="assets/images/cka-cert.svg" alt="Certified Kubernetes Administrator" class="cert-logo" loading="lazy">
+                    <img src="assets/images/cka-cert.svg" alt="Certified Kubernetes Administrator" class="cert-logo">
                     <h3>Kubernetes Administrator</h3>
                     <p>CKA Certification</p>
                     <a href="https://www.credly.com/badges/fb764e6e-271d-4450-9c40-3d2d9ca11466/public_url" 
@@ -239,31 +254,67 @@
     <!-- Projects Section -->
     <section id="projects" class="projects">
         <div class="container">
-            <h2 class="section-title">Featured Projects</h2>
+            <h2 class="section-title">CNCF Contributions</h2>
             <div class="projects-grid">
                 <article class="project-card">
                     <div class="project-image">
-                        <img src="assets/images/project1.jpg" alt="Project Screenshot" loading="lazy">
+                        <img src="https://raw.githubusercontent.com/kubernetes/kubernetes/master/logo/logo.png" alt="Kubernetes Logo" class="project-logo">
                     </div>
                     <div class="project-content">
-                        <h3>Project Name</h3>
-                        <p>A brief description of the project and its key features.</p>
+                        <h3>Kubernetes</h3>
+                        <p>Contributing to the core Kubernetes project, focusing on improving cloud provider implementations and enhancing cluster management capabilities.</p>
                         <div class="tech-stack">
-                            <span class="tech-tag">React</span>
-                            <span class="tech-tag">Node.js</span>
-                            <span class="tech-tag">AWS</span>
+                            <span class="tech-tag">Go</span>
+                            <span class="tech-tag">Cloud Native</span>
+                            <span class="tech-tag">Container Orchestration</span>
                         </div>
                         <div class="project-links">
-                            <a href="#" class="project-link" aria-label="View Project Code">
-                                <i class="fab fa-github" aria-hidden="true"></i> Code
-                            </a>
-                            <a href="#" class="project-link" aria-label="View Live Project">
-                                <i class="fas fa-external-link-alt" aria-hidden="true"></i> Live
+                            <a href="https://github.com/kubernetes/kubernetes/pulls?q=is%3Apr+author%3Ayrsuthari" class="project-link" target="_blank" rel="noopener noreferrer">
+                                <i class="fas fa-code-branch"></i> View Contributions
                             </a>
                         </div>
                     </div>
                 </article>
-                <!-- Add more project cards as needed -->
+
+                <article class="project-card">
+                    <div class="project-image">
+                        <img src="assets/images/cilium-logo.png" alt="Cilium Logo" class="project-logo">
+                    </div>
+                    <div class="project-content">
+                        <h3>Cilium</h3>
+                        <p>Contributing to Cilium's eBPF-based networking, security, and observability capabilities for cloud native environments.</p>
+                        <div class="tech-stack">
+                            <span class="tech-tag">eBPF</span>
+                            <span class="tech-tag">Networking</span>
+                            <span class="tech-tag">Security</span>
+                        </div>
+                        <div class="project-links">
+                            <a href="https://github.com/cilium/cilium/pulls?q=is%3Apr+author%3Ayrsuthari" class="project-link" target="_blank" rel="noopener noreferrer">
+                                <i class="fas fa-code-branch"></i> View Contributions
+                            </a>
+                        </div>
+                    </div>
+                </article>
+
+                <article class="project-card">
+                    <div class="project-image">
+                        <img src="assets/images/opentelemetry-logo.png" alt="OpenTelemetry Logo" class="project-logo">
+                    </div>
+                    <div class="project-content">
+                        <h3>OpenTelemetry Python</h3>
+                        <p>Contributing to the Python implementation of OpenTelemetry, helping improve distributed tracing and observability features.</p>
+                        <div class="tech-stack">
+                            <span class="tech-tag">Python</span>
+                            <span class="tech-tag">Observability</span>
+                            <span class="tech-tag">Distributed Tracing</span>
+                        </div>
+                        <div class="project-links">
+                            <a href="https://github.com/open-telemetry/opentelemetry-python/pulls?q=is%3Apr+author%3Ayrsuthari" class="project-link" target="_blank" rel="noopener noreferrer">
+                                <i class="fas fa-code-branch"></i> View Contributions
+                            </a>
+                        </div>
+                    </div>
+                </article>
             </div>
         </div>
     </section>
