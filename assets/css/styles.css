@@ -366,8 +366,7 @@ button {
 
 .hero-cta {
     display: flex;
-    align-items: center;
-    gap: var(--spacing-md);
+    justify-content: flex-start;
     margin-top: var(--spacing-lg);
 }
 
@@ -389,15 +388,16 @@ button {
 .hero-social {
     display: flex;
     gap: var(--spacing-sm);
+    flex-wrap: wrap;
 }
 
 .social-link {
-    width: 45px;
-    height: 45px;
+    width: 40px;
+    height: 40px;
     display: flex;
     align-items: center;
     justify-content: center;
-    border-radius: 12px;
+    border-radius: 10px;
     background: rgba(255, 255, 255, 0.1);
     color: white;
     transition: all var(--transition-normal);
@@ -770,6 +770,9 @@ section {
     display: flex;
     flex-direction: column;
     gap: var(--spacing-md);
+    padding: var(--spacing-lg);
+    background: var(--background-alt);
+    border-radius: var(--border-radius-lg);
 }
 
 .contact-item {
@@ -777,10 +780,26 @@ section {
     align-items: center;
     gap: var(--spacing-sm);
     color: var(--text-secondary);
+    transition: color var(--transition-normal);
+}
+
+.contact-item:hover {
+    color: var(--primary-color);
 }
 
 .contact-item i {
+    width: 24px;
     color: var(--primary-color);
+}
+
+.contact-item a {
+    color: inherit;
+    text-decoration: none;
+    transition: color var(--transition-normal);
+}
+
+.contact-item a:hover {
+    color: var(--accent-color);
 }
 
 /* Footer */
@@ -929,6 +948,15 @@ section {
 
     .stat-label {
         font-size: var(--font-size-xs);
+    }
+
+    .hero-social {
+        justify-content: center;
+    }
+    
+    .social-link {
+        width: 36px;
+        height: 36px;
     }
 }
 
