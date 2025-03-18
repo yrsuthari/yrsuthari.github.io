@@ -617,21 +617,27 @@ section {
 }
 
 .project-image {
-    aspect-ratio: 16/9;
-    overflow: hidden;
-    background-color: white;
+    padding: var(--spacing-md);
     display: flex;
     align-items: center;
     justify-content: center;
-    padding: var(--spacing-lg);
-    border-bottom: 1px solid var(--border-color);
+    background: var(--background);
+    border-radius: var(--border-radius-lg) var(--border-radius-lg) 0 0;
+    min-height: 150px;
 }
 
 .project-logo {
-    max-width: 80%;
-    max-height: 80%;
+    max-width: 100%;
+    max-height: 80px;
     object-fit: contain;
-    transition: transform var(--transition-normal);
+}
+
+/* Specific logo adjustments */
+.project-card:nth-child(4) .project-logo {
+    background-color: white;
+    padding: 8px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
 }
 
 .project-card:hover .project-logo {
