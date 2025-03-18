@@ -1,0 +1,2059 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="profile" href="https://gmpg.org/xfn/11">
+    <title>404 | InfluxData</title>
+    
+  <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+  <link rel="canonical" href="https://www.influxdata.com/404/" />
+
+  <meta name="description" content="" />
+
+  <meta property="og:locale" content="en_US" />
+  <meta property="og:type" content="article" />
+  <meta property="og:title" content="404" />
+  <meta property="og:description" content="" />
+  <meta property="og:url" content="https://www.influxdata.com/404/" />
+  <meta property="og:site_name" content="InfluxData" />
+
+  <meta property="article:publisher" content="https://www.facebook.com/influxdb/" />
+  <meta property="article:published_time" content="Sat, 09 Mar 2024 02:52:00 +0000" />
+  <meta property="article:modified_time" content="Tue, 12 Mar 2024 01:41:09 +0000" />
+  
+  <meta property="og:image:width" content="1200" />
+  <meta property="og:image:height" content="628" />
+  <meta property="og:image:type" content="image/png" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:description" content="" />
+  <meta name="twitter:creator" content="@influxdb" />
+  <meta name="twitter:site" content="@influxdb" />
+  <meta name="twitter:label1" content="Written by" />
+  <meta name="twitter:data1" content="" />
+  <!--meta name="twitter:label2" content="Est. reading time" />
+  <meta name="twitter:data2" content="2 minutes" / -->
+  <link rel="alternate" type="application/json+oembed" href="https://www.influxdata.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.influxdata.com%2F404" />
+  <link rel="alternate" type="text/xml+oembed" href="https://www.influxdata.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.influxdata.com%2F404;format=xml" />
+  <link rel="alternate" type="application/rss+xml" title="InfluxData &raquo; Feed" href="https://www.influxdata.com/feed.xml" />
+  <link rel="alternate" type="application/feed+json" title="InfluxData &raquo; JSON Feed" href="https://www.influxdata.com/feed.json/" />
+  <link rel="icon" href="https://www.influxdata.com/wp-content/uploads/cubo.svg" sizes="32x32" />
+  <link rel="icon" href="https://www.influxdata.com/wp-content/uploads/cubo.svg" sizes="192x192" />
+  <link rel="apple-touch-icon" href="https://www.influxdata.com/wp-content/uploads/cubo.svg" />
+  <meta name="msapplication-TileImage" content="https://www.influxdata.com/wp-content/uploads/cubo.svg" />
+    <link href="/stylesheets/bulma-82d52ea2.css" rel="stylesheet" />
+    <link href="/stylesheets/all-2e63ba9a.css" rel="stylesheet" />
+    <link rel="stylesheet" href="https://use.typekit.net/cvf5owk.css">
+    <link rel="stylesheet" href='https://www.influxdata.com/wp-content/plugins/ank-prism-for-wp/out/prism-css.min.css' />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" integrity="sha512-Fo3rlrZj/k7ujTnHg4CGR2D7kSs0v4LLanw2qksYuRlEzO+tcaEPQogQ0KaoGN26/zrn20ImR1DfuLWnOo7aBA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <script
+      src="https://code.jquery.com/jquery-3.6.0.min.js"
+      integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
+      crossorigin="anonymous"></script>
+    <script type="application/ld+json" class="yoast-schema-graph">
+    { "@context": "https://schema.org", "@graph": [{ "@type": "Organization", "@id": "https://www.influxdata.com/#organization", "name": "InfluxData", "url": "https://www.influxdata.com/", "sameAs": ["https://www.facebook.com/influxdb/", "https://www.linkedin.com/company-beta/5159145/", "https://www.youtube.com/channel/UCnrgOD6G0y0_rcubQuICpTQ/videos", "https://twitter.com/influxdb"], "logo": { "@type": "ImageObject", "@id": "https://www.influxdata.com/#logo", "inLanguage": "en-US", "url": "https://www.influxdata.com/wp-content/uploads/influx-regular-black.jpg", "contentUrl": "https://www.influxdata.com/wp-content/uploads/influx-regular-black.jpg", "width": 2999, "height": 589, "caption": "InfluxData" }, "image": { "@id": "https://www.influxdata.com/#logo" } }, { "@type": "WebSite", "@id": "https://www.influxdata.com/#website", "url": "https://www.influxdata.com/", "name": "InfluxData", "description": "The Platform for Time-Series Data", "publisher": { "@id": "https://www.influxdata.com/#organization" }, "potentialAction": [{ "@type": "SearchAction", "target": { "@type": "EntryPoint", "urlTemplate": "https://www.influxdata.com/?s={search_term_string}" }, "query-input": "required name=search_term_string" }], "inLanguage": "en-US" }, { "@type": "ImageObject", "@id": "https://www.influxdata.com/#primaryimage", "inLanguage": "en-US", "url": "https://www.influxdata.com/wp-content/uploads/Twitter-Share.png", "contentUrl": "https://www.influxdata.com/wp-content/uploads/Twitter-Share.png", "width": 640, "height": 360 }, { "@type": "WebPage", "@id": "https://www.influxdata.com/#webpage", "url": "https://www.influxdata.com/", "name": "InfluxDB: Open Source Time Series Database | InfluxData", "isPartOf": { "@id": "https://www.influxdata.com/#website" }, "about": { "@id": "https://www.influxdata.com/#organization" }, "primaryImageOfPage": { "@id": "https://www.influxdata.com/#primaryimage" }, "datePublished": "2017-03-30T04:01:38+00:00", "dateModified": "2021-12-10T03:31:30+00:00", "description": "InfluxDB is the platform for building & operating time series applications. Monitor metrics & events, get real-time visibility into stacks, sensors & systems.", "breadcrumb": { "@id": "https://www.influxdata.com/#breadcrumb" }, "inLanguage": "en-US", "potentialAction": [{ "@type": "ReadAction", "target": ["https://www.influxdata.com/"] }] }, { "@type": "BreadcrumbList", "@id": "https://www.influxdata.com/#breadcrumb", "itemListElement": [{ "@type": "ListItem", "position": 1, "name": "Home" }] }] }
+    </script>
+
+    <meta name="google-site-verification" content="IILdgel0MOXfEPT662BzW9obDV7NSLHwxjgSB_bF5AI" />
+    <link rel='dns-prefetch' href='//fonts.googleapis.com' />
+    <link rel='dns-prefetch' href='//s.w.org' />
+    
+    <meta name="msvalidate.01" content="295AF6D95196EBB182314FFFBF3D673F" />
+    
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WXRH9C');</script>
+<!-- End Google Tag Manager -->
+
+<script type="text/javascript" src="https://d2i34c80a0ftze.cloudfront.net/fullcircle.js?cid=e099af1d-0422-4368-b505-7d796dc9a39e&domain=influxdata.com"></script>
+
+<!--MNTN Tracking Pixel-->
+<script type="text/javascript">
+	(function(){"use strict";var e=null,b="4.0.0",
+	n="38563",
+	additional="term=value",
+	t,r,i;try{t=top.document.referer!==""?encodeURIComponent(top.document.referrer.substring(0,2048)):""}catch(o){t=document.referrer!==null?document.referrer.toString().substring(0,2048):""}try{r=window&&window.top&&document.location&&window.top.location===document.location?document.location:window&&window.top&&window.top.location&&""!==window.top.location?window.top.location:document.location}catch(u){r=document.location}try{i=parent.location.href!==""?encodeURIComponent(parent.location.href.toString().substring(0,2048)):""}catch(a){try{i=r!==null?encodeURIComponent(r.toString().substring(0,2048)):""}catch(f){i=""}}var l,c=document.createElement("script"),h=null,p=document.getElementsByTagName("script"),d=Number(p.length)-1,v=document.getElementsByTagName("script")[d];if(typeof l==="undefined"){l=Math.floor(Math.random()*1e17)}h="dx.mountain.com/spx?"+"dxver="+b+"&shaid="+n+"&tdr="+t+"&plh="+i+"&cb="+l+additional;c.type="text/javascript";c.src=("https:"===document.location.protocol?"https://":"http://")+h;v.parentNode.insertBefore(c,v)})()
+</script>
+<!-- End MNTN tracking pixel -->
+
+<!-- Start VWO Async SmartCode -->
+<link rel="preconnect" href="https://dev.visualwebsiteoptimizer.com" />
+<script type='text/javascript' id='vwoCode'>
+window._vwo_code || (function() {
+var account_id=634566,
+version=2.1,
+settings_tolerance=2000,
+hide_element='body',
+hide_element_style = 'opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;transition:none !important;',
+/* DO NOT EDIT BELOW THIS LINE */
+f=false,w=window,d=document,v=d.querySelector('#vwoCode'),cK='_vwo_'+account_id+'_settings',cc={};try{var c=JSON.parse(localStorage.getItem('_vwo_'+account_id+'_config'));cc=c&&typeof c==='object'?c:{}}catch(e){}var stT=cc.stT==='session'?w.sessionStorage:w.localStorage;code={nonce:v&&v.nonce,use_existing_jquery:function(){return typeof use_existing_jquery!=='undefined'?use_existing_jquery:undefined},library_tolerance:function(){return typeof library_tolerance!=='undefined'?library_tolerance:undefined},settings_tolerance:function(){return cc.sT||settings_tolerance},hide_element_style:function(){return'{'+(cc.hES||hide_element_style)+'}'},hide_element:function(){if(performance.getEntriesByName('first-contentful-paint')[0]){return''}return typeof cc.hE==='string'?cc.hE:hide_element},getVersion:function(){return version},finish:function(e){if(!f){f=true;var t=d.getElementById('_vis_opt_path_hides');if(t)t.parentNode.removeChild(t);if(e)(new Image).src='https://dev.visualwebsiteoptimizer.com/ee.gif?a='+account_id+e}},finished:function(){return f},addScript:function(e){var t=d.createElement('script');t.type='text/javascript';if(e.src){t.src=e.src}else{t.text=e.text}v&&t.setAttribute('nonce',v.nonce);d.getElementsByTagName('head')[0].appendChild(t)},load:function(e,t){var n=this.getSettings(),i=d.createElement('script'),r=this;t=t||{};if(n){i.textContent=n;d.getElementsByTagName('head')[0].appendChild(i);if(!w.VWO||VWO.caE){stT.removeItem(cK);r.load(e)}}else{var o=new XMLHttpRequest;o.open('GET',e,true);o.withCredentials=!t.dSC;o.responseType=t.responseType||'text';o.onload=function(){if(t.onloadCb){return t.onloadCb(o,e)}if(o.status===200||o.status===304){_vwo_code.addScript({text:o.responseText})}else{_vwo_code.finish('&e=loading_failure:'+e)}};o.onerror=function(){if(t.onerrorCb){return t.onerrorCb(e)}_vwo_code.finish('&e=loading_failure:'+e)};o.send()}},getSettings:function(){try{var e=stT.getItem(cK);if(!e){return}e=JSON.parse(e);if(Date.now()>e.e){stT.removeItem(cK);return}return e.s}catch(e){return}},init:function(){if(d.URL.indexOf('__vwo_disable__')>-1)return;var e=this.settings_tolerance();w._vwo_settings_timer=setTimeout(function(){_vwo_code.finish();stT.removeItem(cK)},e);var t;if(this.hide_element()!=='body'){t=d.createElement('style');var n=this.hide_element(),i=n?n+this.hide_element_style():'',r=d.getElementsByTagName('head')[0];t.setAttribute('id','_vis_opt_path_hides');v&&t.setAttribute('nonce',v.nonce);t.setAttribute('type','text/css');if(t.styleSheet)t.styleSheet.cssText=i;else t.appendChild(d.createTextNode(i));r.appendChild(t)}else{t=d.getElementsByTagName('head')[0];var i=d.createElement('div');i.style.cssText='z-index: 2147483647 !important;position: fixed !important;left: 0 !important;top: 0 !important;width: 100% !important;height: 100% !important;background: white !important;';i.setAttribute('id','_vis_opt_path_hides');i.classList.add('_vis_hide_layer');t.parentNode.insertBefore(i,t.nextSibling)}var o=window._vis_opt_url||d.URL,s='https://dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(o)+'&vn='+version;if(w.location.search.indexOf('_vwo_xhr')!==-1){this.addScript({src:s})}else{this.load(s+'&x=true')}}};w._vwo_code=code;code.init();})();
+</script>
+<!-- End VWO Async SmartCode -->
+
+
+</head>
+
+<body itemtype='https://schema.org/WebPage' itemscope='itemscope' class=''>
+   
+    <div class="hfeed site" id="page">
+        <a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+     
+        <header class="site-header" id="masthead" itemtype="https://schema.org/WPHeader" itemscope="itemscope" itemid="#masthead">
+   <div class="section py-0 px-0">
+    <div class="container py-0">
+        <nav class="navbar nav-primary" role="navigation" aria-label="main navigation">
+            
+            <!-- #Branding top nav for mobile-->
+            <div class="navbar-brand mobile is-hidden-desktop">
+                <a class="navbar-item header-logo mobile-logo" href="/">
+                    <img src="/images/influxdata_full_white-f14e8966.svg" alt="logo">
+                </a>
+
+                <div class="navbar-burger-wrapper">
+                    <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="navbarMain">
+                        <span aria-hidden="true"></span>
+                        <span aria-hidden="true"></span>
+                        <span aria-hidden="true"></span>
+                    </a>
+                </div>
+               
+            </div>
+           
+           <!-- #Menu for Desktop-->
+            <div id="navbarMain" class="navbar-menu desktop">
+
+                <div class="navbar-brand desktop is-hidden-touch">
+                    <a class="navbar-item header-logo desktop-logo" href="/">
+                        <img src="https://www.influxdata.com/images/influxdata_full_navy-a7ca2ff4.svg" alt="logo">
+                    </a>
+                </div>                
+
+                <div class="navbar-start">
+                   
+                    <!-- #Products drop-down-->
+                    <div class="navbar-item has-dropdown is-hoverable is-mega navbar-delux">
+                        <a class="navbar-link ">
+                            Products
+                        </a>
+                        <div class="navbar-dropdown-extender"></div>
+                        <div class="navbar-dropdown">
+                            <div class="container-old is-fluid-old drop-container">
+                                
+                                <!-- #Products purple section-->
+                                <div class="has-purple-bgr">
+                                    <h4 class="text-18 has-text-weight-bold has-text-white">Products</h4>
+                                </div>
+                                <!-- #Products columns with links -->
+                                <div class="nav-box">
+                                    
+                                    <div class="col one">
+                                       <a class="links nav-link py-0" href="/products/influxdb-cloud/"><p class="text-16 has-text-weight-bold underline is-navy">Fully Managed</p></a>
+                                       <p class="text-14">Simplify and scale with cloud services</p>
+                                       <hr class="tbl-line my-5">
+
+                                       <a class="nav-link" href="/products/influxdb-cloud/serverless/">
+                                        <div class="links">
+                                            <span class="text-16 underline is-navy">InfluxDB Cloud Serverless</span>
+                                            <img class=" " src="/images/gr-arrow-f1ef722d.svg" alt="arrow" title="arrow">
+                                        </div>
+                                      </a> 
+                                      <a class="nav-link" href="/products/influxdb-cloud/dedicated/">
+                                       <div class="links">
+                                        <span class="text-16 underline is-navy">InfluxDB Cloud Dedicated</span>
+                                        <img class=" " src="/images/gr-arrow-f1ef722d.svg" alt="arrow" title="arrow">
+                                       </div>
+                                      </a> 
+                                     </div>
+                                    
+                                    <div class="col one">
+                                       <p class="text-16 has-text-weight-bold">Self-Managed</p>
+                                       <p class="text-14">For organizations that need full control</p>
+                                       <hr class="tbl-line">
+
+                                       <a class="nav-link" href="/products/influxdb-clustered/">
+                                        <div class="links">
+                                            <span class="text-16 underline is-navy">InfluxDB Clustered</span>
+                                            <img class=" " src="/images/gr-arrow-f1ef722d.svg" alt="arrow" title="arrow">
+                                        </div>
+                                       </a>
+                                      
+                                    </div>
+
+                                    <div class="col one">
+                                       <p class="text-16 has-text-weight-bold">Integrations</p>
+                                       <p class="text-14">Works well with the tools you love </p>
+                                       <hr class="tbl-line">
+
+                                       <a class="nav-link" href="/products/integrations/#tab2">
+                                        <div class="links">
+                                            <span class="text-16 underline is-navy">Client Libraries</span>
+                                            <img class=" " src="/images/gr-arrow-f1ef722d.svg" alt="arrow" title="arrow">
+                                        </div>
+                                       </a> 
+
+                                       <a class="nav-link" href="/features/open-data-access/">
+                                        <div class="links">
+                                            <span class="text-16 underline is-navy">Lakehouse / Warehouse</span>
+                                            <img class=" " src="/images/gr-arrow-f1ef722d.svg" alt="arrow" title="arrow">
+                                        </div>
+                                       </a>
+
+                                       <a class="nav-link" href="/products/integrations/">
+                                        <div class="links">
+                                            <span class="text-16 underline is-navy">Explore All</span>
+                                            <img class=" " src="/images/gr-arrow-f1ef722d.svg" alt="arrow" title="arrow">
+                                        </div>
+                                       </a> 
+                                    </div>
+
+                                    <div class="col last">
+                                       <p class="text-16 has-text-weight-bold">Recommended Resources</p>
+                                       <hr class="tbl-line">
+
+                                       <a class="nav-link" href="/products/influxdb-3-enterprise/"> 
+                                        <div class="links pb-1">
+                                            <span class="text-16 underline is-navy">InfluxDB 3 Enterprise</span> <span class="menu-tag is-navy">BETA</span>
+                                        </div>
+                                       </a> 
+                                       <a class="nav-link" href="/lp/oss-vs-new-engine/">
+                                        <div class="links">
+                                            <span class="text-16 underline is-navy" href="#">Performance Comparisons</span>
+                                            <img class=" " src="/images/gr-arrow-f1ef722d.svg" alt="arrow" title="arrow">
+                                        </div>
+                                       </a> 
+                                       <a class="nav-link" href="/get-influxdb/">
+                                        <div class="links">
+                                            <span class="text-16 underline is-navy">Find the Right Product</span>
+                                            <img class=" " src="/images/gr-arrow-f1ef722d.svg" alt="arrow" title="arrow">
+                                        </div>
+                                       </a>
+                                       <a class="nav-link" href="/products/influxdb-overview/"> 
+                                        <div class="links">
+                                            <span class="text-16 underline is-navy">Platform Overview</span>
+                                            <img class=" " src="/images/gr-arrow-f1ef722d.svg" alt="arrow" title="arrow">
+                                        </div>
+                                       </a>                                        
+                                    </div>
+
+                                </div>
+
+                            </div> <!-- #drop-container -->  
+                        </div>  <!-- #navbar-dropdown -->  
+                    </div>  <!-- #navbar-item -->      
+                     
+                   
+                    <!-- #Solutions drop-down-->
+                    <div class="navbar-item has-dropdown is-hoverable is-mega navbar-delux">
+                        <a class="navbar-link ">
+                            Use Cases
+                        </a>
+                        <div class="navbar-dropdown-extender"></div>
+                        <div class="navbar-dropdown">
+                            <div class="drop-container">
+                                
+                                <!-- #Solutions green section-->
+                                <div class="has-teal-bgr">
+                                    <h4 class="text-18 has-text-weight-bold is-navy">Use Cases</h4>
+                                </div>
+                                <!-- #Products columns with links -->
+                                <div class="solutions-nav-box">
+                                    <div class="white-box">
+
+                                        <div class="nav-box">
+                                            
+                                            <div class="col one">
+                                                <p class="text-16 has-text-weight-bold">Use Cases</p>
+                                                <hr class="tbl-line my-5">
+
+                                                <a class="nav-link" href="/solutions/network-monitoring/">
+                                                    <div class="links">
+                                                        <span class="text-16 underline is-navy">Network & Infrastructure Monitoring</span>
+                                                        <img class=" " src="/images/gr-arrow-f1ef722d.svg" alt="arrow" title="arrow">
+                                                    </div>
+                                                </a> 
+
+                                                <a class="nav-link" href="/solutions/iot-analytics-and-predictive-maintenance/">
+                                                    <div class="links">
+                                                        <span class="text-16 underline is-navy">IoT Analytics & Predictive Maintenance</span>
+                                                        <img class=" " src="/images/gr-arrow-f1ef722d.svg" alt="arrow" title="arrow">
+                                                    </div>
+                                                </a>
+
+                                                <a class="nav-link" href="/ml-ai-workloads/">
+                                                <div class="links">
+                                                    <span class="text-16 underline is-navy">Machine Learning & AI</span>
+                                                    <img class=" " src="/images/gr-arrow-f1ef722d.svg" alt="arrow" title="arrow">
+                                                </div>
+                                                </a>
+
+                                                <a class="nav-link" href="/historian-workloads/">
+                                                    <div class="links">
+                                                        <span class="text-16 underline is-navy">Modern Data Historian</span>
+                                                        <img class=" " src="/images/gr-arrow-f1ef722d.svg" alt="arrow" title="arrow">
+                                                    </div>
+                                                </a> 
+
+                                                <div class="pt-20">
+                                                    <a class="link-icon text-16 has-text-weight-bold is-navy" href="/solutions/"><span class="gr-underline is-navy">Explore All</span> <span class="icon gradient-text"> <i class="fa fa-arrow-right" aria-hidden="true"></i> </span></a>
+                                                </div>
+
+                                            </div>
+                                            
+                                            <div class="col two">
+                                                <p class="text-16 has-text-weight-bold">Industries</p>
+                                                <hr class="tbl-line">
+
+                                                <div class="indst-flex">
+                                                    <div class="indst-links">
+                                                        <a class="nav-link" href="/solutions/industrial-iot/">
+                                                            <div class="links">
+                                                                <span class="text-16 underline is-navy">Manufacturing & IIoT</span>
+                                                                <img class=" " src="/images/gr-arrow-f1ef722d.svg" alt="arrow" title="arrow">
+                                                            </div>
+                                                        </a>
+                                                        <a class="nav-link" href="/solutions/by-industries/aerospace-and-satellites/">
+                                                            <div class="links">
+                                                                <span class="text-16 underline is-navy">Aerospace</span>
+                                                                <img class=" " src="/images/gr-arrow-f1ef722d.svg" alt="arrow" title="arrow">
+                                                            </div>
+                                                        </a>
+                                                        <a class="nav-link" href="/solutions/by-industries/energy-and-utilities/">
+                                                            <div class="links">
+                                                                <span class="text-16 underline is-navy">Energy & Utilities</span>
+                                                                <img class=" " src="/images/gr-arrow-f1ef722d.svg" alt="arrow" title="arrow">
+                                                            </div>
+                                                        </a>
+                                                        <a class="nav-link" href="/solutions/fintech/">
+                                                            <div class="links">
+                                                                <span class="text-16 underline is-navy">Financial Services</span>
+                                                                <img class=" " src="/images/gr-arrow-f1ef722d.svg" alt="arrow" title="arrow">
+                                                            </div>
+                                                        </a>
+                                                    </div>
+                                                    <div class="indst-links">
+                                                        <a class="nav-link" href="/solutions/consumer-iot/">
+                                                            <div class="links">
+                                                                <span class="text-16 underline is-navy">Consumer IoT</span>
+                                                                <img class=" " src="/images/gr-arrow-f1ef722d.svg" alt="arrow" title="arrow">
+                                                            </div>
+                                                        </a> 
+                                                        <a class="nav-link" href="/solutions/by-industries/telecommunications/">
+                                                            <div class="links">
+                                                                <span class="text-16 underline is-navy">Telecommunications</span>
+                                                                <img class=" " src="/images/gr-arrow-f1ef722d.svg" alt="arrow" title="arrow">
+                                                            </div>
+                                                        </a>
+                                                        <a class="nav-link" href="/solutions/gaming/"> 
+                                                            <div class="links">
+                                                                <span class="text-16 underline is-navy">Gaming</span>
+                                                                <img class=" " src="/images/gr-arrow-f1ef722d.svg" alt="arrow" title="arrow">
+                                                            </div>
+                                                        </a>
+                                                        <a class="is-hidden nav-link" href="/solutions/predictive-maintenance/"> 
+                                                            <div class="links">
+                                                                <span class="text-16 underline is-navy">Healthcare & Life Sciences</span>
+                                                                <img class=" " src="/images/gr-arrow-f1ef722d.svg" alt="arrow" title="arrow">
+                                                            </div>
+                                                        </a>
+                                                    </div>
+                                                </div> 
+                                                <div class="pt-20">
+                                                    <a class="link-icon text-16 has-text-weight-bold is-navy" href="/solutions/"><span class="gr-underline is-navy">Explore All</span> <span class="icon gradient-text"> <i class="fa fa-arrow-right" aria-hidden="true"></i> </span></a>
+                                                </div>
+
+                                            </div>
+                                        </div>  
+                                        
+                                    </div>  <!-- #End white box -->
+                                    
+                                    <div class="grey-box">
+                                        <div class="col-old nav-image-bg">
+                                            <p class="fringe-text-nav">Modern Data Historian</p>
+                                            <div class="pt-10 pb-30 px-30">                                                
+                                                <p class="text-34 has-text-white has-text-weight-bold max-200">Teréga Cuts TCO by 50%</p>
+                                                <div class="has-text-right pt-20 pb-10">
+                                                    <a class="button is-gradient is-outlined is-navy-bg" href="/resources/how-to-create-digital-twin-for-monitoring-gas-pipelines-with-influxdb-aws/">See How</a>  
+                                                </div>             
+                                            </div>
+                                        </div>
+                                        <div class="py-20 px-30">
+                                            <a class="link-icon text-16 has-text-weight-bold is-navy" href="/customers/"><span class="gr-underline is-navy">Explore Customers</span> <span class="icon gradient-text"> <i class="fa fa-arrow-right" aria-hidden="true"></i> </span></a>
+                                        </div>
+
+                                    </div>  <!-- #End grey box -->
+                                </div>  
+                                
+
+                            </div> <!-- #drop-container -->  
+                        </div>  <!-- #navbar-dropdown -->  
+                    </div>  <!-- #navbar-item -->  
+
+
+                    <!-- #Developers drop-down-->
+                    <div class="navbar-item has-dropdown is-hoverable is-mega navbar-delux">
+                        <a class="navbar-link ">
+                            Developers
+                        </a>
+                        <div class="navbar-dropdown-extender"></div>
+                        <div class="navbar-dropdown">
+                            <div class="container-old is-fluid-old drop-container">
+                                
+                                <!-- #Developers purple section-->
+                                <div class="has-pink-bgr">
+                                    <h4 class="text-18 has-text-weight-bold has-text-white">Developers</h4>
+                                </div>
+                                <!-- #Developers columns with links -->
+                                <div class="solutions-nav-box">
+                                    <div class="white-box">
+                                        <div class="nav-box">                                        
+                                            <div class="col one">
+                                            <p class="text-16 has-text-weight-bold">Learn</p>
+                                            <hr class="tbl-line my-5">
+
+                                            <a class="nav-link" href="/_resources/">
+                                                <div class="links">
+                                                    <span class="text-16 underline is-navy">Developer Resources</span>
+                                                    <img class=" " src="/images/gr-arrow-f1ef722d.svg" alt="arrow" title="arrow">
+                                                </div>
+                                            </a> 
+                                            <a class="nav-link" href="/blog/">
+                                            <div class="links">
+                                                <span class="text-16 underline is-navy">Blog</span>
+                                                <img class=" " src="/images/gr-arrow-f1ef722d.svg" alt="arrow" title="arrow">
+                                            </div>
+                                            </a> 
+                                            <a class="nav-link" href="/customers/">
+                                            <div class="links">
+                                                <span class="text-16 underline is-navy">Customers</span>
+                                                <img class=" " src="/images/gr-arrow-f1ef722d.svg" alt="arrow" title="arrow">
+                                            </div>
+                                            </a> 
+                                            <a class="nav-link" href="/partners/">
+                                            <div class="links">
+                                                <span class="text-16 underline is-navy">Partners</span>
+                                                <img class=" " src="/images/gr-arrow-f1ef722d.svg" alt="arrow" title="arrow">
+                                            </div>
+                                            </a> 
+                                            <a class="nav-link" href="https://support.influxdata.com/s/">
+                                            <div class="links">
+                                                <span class="text-16 underline is-navy">Support</span>
+                                                <img class=" " src="/images/gr-arrow-f1ef722d.svg" alt="arrow" title="arrow">
+                                            </div>
+                                            </a> 
+                                            <a class="nav-link" href="/_resources/">
+                                            <div class="links">
+                                                <span class="text-16 underline is-navy">Webinars</span>
+                                                <img class=" " src="/images/gr-arrow-f1ef722d.svg" alt="arrow" title="arrow">
+                                            </div>
+                                            </a> 
+                                            </div>
+                                            
+                                            <div class="col one">
+                                            <p class="text-16 has-text-weight-bold">Build</p>
+                                            <hr class="tbl-line">
+
+                                            <a class="nav-link" href="https://docs.influxdata.com/">
+                                                <div class="links">
+                                                    <span class="text-16 underline is-navy">Documentation</span>
+                                                    <img class=" " src="/images/gr-arrow-f1ef722d.svg" alt="arrow" title="arrow">
+                                                </div>
+                                            </a>
+                                            <a class="nav-link" href="/products/influxdb/">
+                                                <div class="links">
+                                                    <span class="text-16 underline is-navy">InfluxDB OSS</span>
+                                                    <span class="menu-tag is-navy">BETA</span>
+                                                </div>
+                                            </a>
+                                            <a class="nav-link" href="/time-series-platform/telegraf/">
+                                                <div class="links">
+                                                    <span class="text-16 underline is-navy">Telegraf Data Collection</span>
+                                                    <img class=" " src="/images/gr-arrow-f1ef722d.svg" alt="arrow" title="arrow">
+                                                </div>
+                                            </a>
+                                            <a class="nav-link" href="/influxdb-cloud-on-aws/">
+                                                <div class="links">
+                                                    <span class="text-16 underline is-navy">AWS</span>
+                                                    <img class=" " src="/images/gr-arrow-f1ef722d.svg" alt="arrow" title="arrow">
+                                                </div>
+                                            </a> 
+                                            <a class="nav-link" href="/products/integrations/">
+                                                <div class="links">
+                                                    <span class="text-16 underline is-navy">Integrations</span>
+                                                    <img class=" " src="/images/gr-arrow-f1ef722d.svg" alt="arrow" title="arrow">
+                                                </div>
+                                            </a>
+                                            </div>
+
+                                            <div class="col one">
+                                            <p class="text-16 has-text-weight-bold">Connect</p>
+                                            <hr class="tbl-line">
+
+                                            <a class="nav-link" href="/university/">
+                                                <div class="links">
+                                                    <span class="text-16 underline is-navy">InfluxDB University</span>
+                                                    <img class=" " src="/images/gr-arrow-f1ef722d.svg" alt="arrow" title="arrow">
+                                                </div>
+                                            </a>
+                                            <a class="nav-link" href="/community/">
+                                                <div class="links">
+                                                    <span class="text-16 underline is-navy">Community</span>
+                                                    <img class=" " src="/images/gr-arrow-f1ef722d.svg" alt="arrow" title="arrow">
+                                                </div>
+                                            </a> 
+                                            <a class="nav-link" href="/events/">
+                                                <div class="links">
+                                                    <span class="text-16 underline is-navy">Events and Live Training</span>
+                                                    <img class=" " src="/images/gr-arrow-f1ef722d.svg" alt="arrow" title="arrow">
+                                                </div>
+                                            </a> 
+                                            </div>
+                                        </div>
+                                    </div> <!-- #end whhite box--> 
+
+                                    <div class="grey-box">
+                                        <div class="col-old dev-image-bg">
+                                            <p class="fringe-text-nav">PUBLIC BETA</p>
+                                            <div class="pt-10 pb-30 px-30">
+                                                <p class="text-34 has-text-white has-text-weight-bold max-250" style="line-height: 1.2em;">Announcing InfluxDB 3 Open Source</p>
+                                                <div class="has-text-right pt-20 pb-10">
+                                                    <a class="button is-gradient is-outlined is-navy-bg" href="/products/influxdb3/">Download</a>  
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="py-20 px-30">
+                                            <a class="link-icon text-16 has-text-weight-bold is-navy" href="/blog/sync-influxdb-v2-v3-quix/"><span class="gr-underline is-navy">Streamline InfluxDB 3 Migration</span> <span class="icon gradient-text"> <i class="fa fa-arrow-right" aria-hidden="true"></i> </span></a>
+                                        </div>
+                                    </div>  <!-- #End grey box -->
+                                </div> <!-- #End solutions with links div -->
+
+
+                            </div> <!-- #drop-container -->  
+                        </div>  <!-- #navbar-dropdown -->  
+                    </div>  <!-- #navbar-item -->    
+                   
+
+                    <div class="navbar-item navbar-delux">
+                        <a class="navbar-link is-arrowless" href="/influxdb-pricing/">
+                            Pricing
+                        </a>                                            
+                    </div> 
+
+                </div>
+
+                <div class="navbar-end">
+                    <div class="navbar-item nav-right">
+                    
+                        <a class="navbar-link is-arrowless contact-nav-link" href='/contact-sales/' class="">
+                           Contact Us
+                        </a>                        
+                       
+                        <div class="navbar-link is-arrowless navbar-item has-dropdown is-hoverable">
+                            <a class="navbar-link">
+                              Sign In
+                            </a>
+                            <div class='navbar-dropdown-extender'></div>
+                                <div class="navbar-dropdown">
+                                    <div class="drop-container-login">
+
+                                       <a class="navbar-item" href="https://cloud2.influxdata.com/login">
+                                        <div class="links">
+                                            <span class="text-16 underline is-navy">Log in to InfluxDB Cloud 2.0</span>
+                                            <img class=" " src="/images/gr-arrow-f1ef722d.svg" alt="arrow" title="arrow">
+                                        </div>
+                                       </a> 
+
+                                       <a class="navbar-item" href="https://portal.influxdata.com/users/sign_in">
+                                        <div class="links">
+                                            <span class="text-16 underline is-navy">Log in to InfluxDB Enterprise</span>
+                                            <img class=" " src="/images/gr-arrow-f1ef722d.svg" alt="arrow" title="arrow">
+                                        </div>
+                                       </a> 
+
+                                       <a class="navbar-item" href="https://cloud.influxdata.com/">
+                                        <div class="links">
+                                            <span class="text-16 underline is-navy">Log in to InfluxDB Cloud 1.x</span>
+                                            <img class=" " src="/images/gr-arrow-f1ef722d.svg" alt="arrow" title="arrow">
+                                        </div>
+                                       </a>
+                                    </div>
+                                </div>  <!-- #end navbar-dropdown -->
+                            </div>
+                            <a href='/get-influxdb/' class="button is-gradient is-normal"> Start Now </a>
+                            <i id='search-init' class="fas fa-search"></i>   
+                        </div>
+                    </div>
+                </div> <!-- #end navbar-end  -->
+            
+<!------------------------------- #Menu for mobile phone ------------------------------------>
+
+             <div id="navbarMain" class="navbar-menu mobile is-hidden-desktop">
+                <div class="navbar-start">
+
+                    <a class="button is-gradient is-normal mb-3" style="width: 100%;" href="/get-influxdb/">Start Now</a>
+                    
+                    <!-- #Product manu  -->
+                    <div class="navbar-item has-dropdown-old border-btm py-4">
+                        <a class="navbar-link mob-open"> Products  <i class="fa-solid fa-chevron-right"></i> </a>
+                        
+                        
+                        <div class="mob-dropdown">
+                            <div class="border-purple-top is-flex is-flex-direction-row pt-4 px-4" style="gap: 30px;">
+                                <div class="close-dropdown"><i class="fa-solid fa-chevron-left"></i></div>  
+                                <p class="mob-name">Products</p>  
+                            </div>
+
+                            <div class="px-5 py-30">
+
+                                <div class="border-btm is-flex is-flex-direction-column pb-4">
+                                    <a href="/products/influxdb-cloud/" class="is-navy"><h5 class="is-navy m-0 pb-4">Fully Managed</h5></a>
+                                    <p class="text-14 pb-1">Simplify and scale with Cloud services</p>
+                                   
+                                    <a class="nav-link" href="/products/influxdb-cloud/serverless/">
+                                        <div class="links">
+                                            <span class="text-16 underline is-navy">InfluxDB Cloud Serverless</span>
+                                            <img class=" " src="/images/gr-arrow-f1ef722d.svg" alt="arrow" title="arrow">
+                                        </div>
+                                    </a> 
+                                    <a class="nav-link" href="/products/influxdb-cloud/dedicated/">
+                                       <div class="links">
+                                        <span class="text-16 underline is-navy">InfluxDB Cloud Dedicated</span>
+                                        <img class=" " src="/images/gr-arrow-f1ef722d.svg" alt="arrow" title="arrow">
+                                       </div>
+                                    </a> 
+                                </div> 
+
+                                <div class="border-btm is-flex is-flex-direction-column py-5">
+                                    <h5 class="is-navy m-0 pb-4">Self-Managed</h5>
+                                    <p class="text-14 pb-1">For organizations that need full control</p>
+                                   
+                                    <a class="nav-link" href="/products/influxdb-clustered/">
+                                        <div class="links">
+                                            <span class="text-16 underline is-navy">InfluxDB Clustered</span>
+                                            <img class=" " src="/images/gr-arrow-f1ef722d.svg" alt="arrow" title="arrow">
+                                        </div>
+                                    </a> 
+                                </div> 
+
+                                <div class="is-flex is-flex-direction-column pt-5">
+                                    <h5 class="is-navy m-0 pb-4">Integrations</h5>
+                                    <p class="text-14 pb-1">Works well with the tools you love</p>
+                                   
+                                    <a class="nav-link" href="/products/integrations/#tab2">
+                                       <div class="links">
+                                        <span class="text-16 underline is-navy">Client Libraries</span>
+                                        <img class=" " src="/images/gr-arrow-f1ef722d.svg" alt="arrow" title="arrow">
+                                       </div>
+                                    </a> 
+
+                                     <a class="nav-link" href="/features/open-data-access/">
+                                       <div class="links">
+                                        <span class="text-16 underline is-navy">Lakehouse / Warehouse</span>
+                                        <img class=" " src="/images/gr-arrow-f1ef722d.svg" alt="arrow" title="arrow">
+                                       </div>
+                                    </a> 
+
+                                    <a class="nav-link" href="/products/integrations/">
+                                        <div class="links">
+                                            <span class="text-16 underline is-navy">Explore All</span>
+                                            <img class=" " src="/images/gr-arrow-f1ef722d.svg" alt="arrow" title="arrow">
+                                        </div>
+                                    </a>
+                                </div>                             
+                                
+                            </div> <!-- #end px-5  -->
+
+                            <div class="grey-bgr-new is-flex is-flex-direction-column pt-5 pb-60-mob px-5">
+                                <h5 class="is-navy m-0 pb-4">Recommended Resources</h5>
+                                
+                                <a class="nav-link" href="/products/influxdb-3-enterprise/">
+                                    <div class="links">
+                                        <span class="text-16 underline is-navy">InfluxDB 3 Enterprise <span class="menu-tag">BETA</span></span>
+                                        <img class=" " src="/images/gr-arrow-f1ef722d.svg" alt="arrow" title="arrow">
+                                    </div>
+                                </a> 
+                                <a class="nav-link" href="/lp/oss-vs-new-engine/">
+                                    <div class="links">
+                                        <span class="text-16 underline is-navy">Performance Comparisons</span>
+                                        <img class=" " src="/images/gr-arrow-f1ef722d.svg" alt="arrow" title="arrow">
+                                    </div>
+                                </a>
+                                <a class="nav-link" href="/get-influxdb/">
+                                    <div class="links">
+                                        <span class="text-16 underline is-navy">Find the Right Product</span>
+                                        <img class=" " src="/images/gr-arrow-f1ef722d.svg" alt="arrow" title="arrow">
+                                    </div>
+                                </a> 
+                                <a class="nav-link" href="/products/influxdb-overview/">
+                                    <div class="links">
+                                        <span class="text-16 underline is-navy">Platform Overview</span>
+                                        <img class=" " src="/images/gr-arrow-f1ef722d.svg" alt="arrow" title="arrow">
+                                    </div>
+                                </a>                                 
+                                  
+                            </div> 
+
+                        </div>
+                    </div>  <!-- #End navbar-item-->
+
+                    <!-- #Use Cases manu  -->
+                    <div class="navbar-item has-dropdown-old border-btm py-4">
+                        <a class="navbar-link mob-open"> Use Cases <i class="fa-solid fa-chevron-right"></i> </a>
+                        
+                        <div class="mob-dropdown">
+                            <div class="border-teal-top is-flex is-flex-direction-row pt-4 px-4" style="gap: 30px;">
+                                <div class="close-dropdown"><i class="fa-solid fa-chevron-left"></i></div>  
+                                <p class="mob-name is-navy">Use Cases</p>  
+                            </div>
+
+                            <div class="px-5 py-30">
+
+                                <div class="border-btm is-flex is-flex-direction-column pb-4">
+                                    <h5 class="is-navy m-0 pb-4">Use Cases</h5>
+                                                                       
+                                    <a class="nav-link" href="/solutions/network-monitoring/">
+                                        <div class="links">
+                                            <span class="text-16 underline is-navy">Network & Infrastructure Monitoring</span>
+                                            <img class=" " src="/images/gr-arrow-f1ef722d.svg" alt="arrow" title="arrow">
+                                        </div>
+                                    </a> 
+                                     <a class="nav-link" href="/solutions/iot-analytics-and-predictive-maintenance/">
+                                       <div class="links">
+                                        <span class="text-16 underline is-navy">IoT Analytics & Predictive Maintenance</span>
+                                        <img class=" " src="/images/gr-arrow-f1ef722d.svg" alt="arrow" title="arrow">
+                                       </div>
+                                    </a>
+                                    <a class="nav-link" href="/ml-ai-workloads/">
+                                       <div class="links">
+                                        <span class="text-16 underline is-navy">Machine Learning & AI</span>
+                                        <img class=" " src="/images/gr-arrow-f1ef722d.svg" alt="arrow" title="arrow">
+                                       </div>
+                                    </a>
+                                    <a class="nav-link" href="/historian-workloads/">
+                                       <div class="links">
+                                        <span class="text-16 underline is-navy">Modern Data Historian</span>
+                                        <img class=" " src="/images/gr-arrow-f1ef722d.svg" alt="arrow" title="arrow">
+                                       </div>
+                                    </a> 
+                                    <a class="nav-link" href="/solutions/">
+                                       <div class="links">
+                                        <span class="text-16 underline is-navy">Explore All</span>
+                                        <img class=" " src="/images/gr-arrow-f1ef722d.svg" alt="arrow" title="arrow">
+                                       </div>
+                                    </a> 
+                                </div> 
+
+                                <div class="border-btm-old is-flex is-flex-direction-column pt-5 pb-10">
+                                    <h5 class="is-navy m-0 pb-4">Industries</h5>
+                                   
+                                    <a class="nav-link" href="/solutions/industrial-iot/">
+                                        <div class="links">
+                                            <span class="text-16 underline is-navy">Manufacturing & IIoT</span>
+                                            <img class=" " src="/images/gr-arrow-f1ef722d.svg" alt="arrow" title="arrow">
+                                        </div>
+                                    </a> 
+                                    <a class="nav-link" href="/solutions/by-industries/aerospace-and-satellites/">
+                                       <div class="links">
+                                        <span class="text-16 underline is-navy">Aerospace</span>
+                                        <img class=" " src="/images/gr-arrow-f1ef722d.svg" alt="arrow" title="arrow">
+                                       </div>
+                                    </a>
+                                    <a class="nav-link" href="/solutions/by-industries/energy-and-utilities/">
+                                       <div class="links">
+                                        <span class="text-16 underline is-navy">Energy & Utilities</span>
+                                        <img class=" " src="/images/gr-arrow-f1ef722d.svg" alt="arrow" title="arrow">
+                                       </div>
+                                    </a>  
+                                    <a class="nav-link" href="/solutions/fintech/">
+                                       <div class="links">
+                                        <span class="text-16 underline is-navy">Financial Services</span>
+                                        <img class=" " src="/images/gr-arrow-f1ef722d.svg" alt="arrow" title="arrow">
+                                       </div>
+                                    </a>  
+                                    <a class="nav-link" href="/solutions/consumer-iot/">
+                                       <div class="links">
+                                        <span class="text-16 underline is-navy">Consumer IoT</span>
+                                        <img class=" " src="/images/gr-arrow-f1ef722d.svg" alt="arrow" title="arrow">
+                                       </div>
+                                    </a>  
+                                    <a class="nav-link" href="/solutions/by-industries/telecommunications/">
+                                       <div class="links">
+                                        <span class="text-16 underline is-navy">Telecommunications</span>
+                                        <img class=" " src="/images/gr-arrow-f1ef722d.svg" alt="arrow" title="arrow">
+                                       </div>
+                                    </a>  
+                                    <a class="nav-link" href="/solutions/gaming/">
+                                       <div class="links">
+                                        <span class="text-16 underline is-navy">Gaming</span>
+                                        <img class=" " src="/images/gr-arrow-f1ef722d.svg" alt="arrow" title="arrow">
+                                       </div>
+                                    </a>  
+                                    <a class="nav-link" href="/solutions/">
+                                       <div class="links">
+                                        <span class="text-16 underline is-navy">Explore All</span>
+                                        <img class=" " src="/images/gr-arrow-f1ef722d.svg" alt="arrow" title="arrow">
+                                       </div>
+                                    </a> 
+                                </div>                            
+                                
+                            </div> <!-- #end px-5  -->
+
+                            <div class="grey-bgr-new is-flex is-flex-direction-column pt-5 pb-50 px-5">
+                                <h5 class="is-navy m-0 pb-4">Recommended Resources</h5>
+                                
+                                <a class="nav-link" href="/resources/how-to-create-digital-twin-for-monitoring-gas-pipelines-with-influxdb-aws/">
+                                    <div class="links">
+                                        <span class="text-16 underline is-navy">See How Teréga Cut TCO by 50%</span>
+                                        <img class=" " src="/images/gr-arrow-f1ef722d.svg" alt="arrow" title="arrow">
+                                    </div>
+                                </a>
+                                <a class="nav-link" href="/customers/">
+                                    <div class="links">
+                                        <span class="text-16 underline is-navy">Customer Stories</span>
+                                        <img class=" " src="/images/gr-arrow-f1ef722d.svg" alt="arrow" title="arrow">
+                                    </div>
+                                </a>                               
+                            </div> 
+
+                            <div class="is-hidden px-5 pt-30 pb-60-mob">
+                                <div class="is-flex is-flex-direction-column pb-4">
+                                     
+                                     <a class="nav-link" href="/solutions/">
+                                        <div class="icon-link pb-4">
+                                            <img class="start-icon" src="//images.ctfassets.net/o7xu9whrs0u9/5jg5ny55E5TGxRZ3qXE953/972a5eb5e31e9dbcdf4fbf34f5079c69/icons8-electronics.svg" alt="icon" title="icon">
+                                            <span class="text-16 underline is-navy">Use Cases</span>
+                                            <img class="arrow" src="/images/gr-arrow-f1ef722d.svg" alt="arrow" title="arrow">
+                                        </div>
+                                    </a>
+
+                                    <a class="nav-link" href="/customers/">
+                                        <div class="icon-link pb-4">
+                                            <img class="start-icon" src="//images.ctfassets.net/o7xu9whrs0u9/20KtkkDq0zlSoYAfYRMns/815c8fecdd26d4cd3a9ca12786ca75aa/icon-journey.svg" alt="icon" title="icon">
+                                            <span class="text-16 underline is-navy">Customer Stories</span>
+                                            <img class="arrow" src="/images/gr-arrow-f1ef722d.svg" alt="arrow" title="arrow">
+                                        </div>
+                                    </a>
+
+                                    <a class="nav-link" href="/customer/terega/">
+                                        <div class="icon-link pb-4">
+                                            <img class="start-icon" src="//images.ctfassets.net/o7xu9whrs0u9/4ylr5sWS3lVaaoHzZ3uqMB/e5d30fe9c4652c34ac6fc7119968df87/icons-workflow.svg" alt="icon" title="icon">
+                                            <span class="text-16 underline is-navy">See how Teréga reduced total <br/>cost of ownership by 50%</span>
+                                            <img class="arrow" src="/images/gr-arrow-f1ef722d.svg" alt="arrow" title="arrow">
+                                        </div>
+                                    </a>
+
+                                    
+                                </div>                              
+                            </div> <!-- #end px-5  -->
+
+                        </div>
+                    </div>  <!-- #End navbar-item-->
+
+                    <div class="navbar-item has-dropdown-old border-btm py-4">
+                        <a class="navbar-link mob-open"> Developers <i class="fa-solid fa-chevron-right"></i> </a>
+                        
+                        <div class="mob-dropdown">
+                            <div class="border-pink-top is-flex is-flex-direction-row pt-4 px-4" style="gap: 30px;">
+                                <div class="close-dropdown"><i class="fa-solid fa-chevron-left"></i></div>  
+                                <p class="mob-name">Developers</p>  
+                            </div>
+
+                            <div class="px-5 py-30">
+
+                                <div class="border-btm is-flex is-flex-direction-column pb-4">
+                                    <h5 class="is-navy m-0 pb-4">Learn</h5>
+                                                                       
+                                    <a class="nav-link" href="/_resources/">
+                                        <div class="links">
+                                            <span class="text-16 underline is-navy">Developer Resources</span>
+                                            <img class=" " src="/images/gr-arrow-f1ef722d.svg" alt="arrow" title="arrow">
+                                        </div>
+                                    </a> 
+                                    <a class="nav-link" href="/blog/">
+                                       <div class="links">
+                                        <span class="text-16 underline is-navy">Blog</span>
+                                        <img class=" " src="/images/gr-arrow-f1ef722d.svg" alt="arrow" title="arrow">
+                                       </div>
+                                    </a> 
+                                    <a class="nav-link" href="/customers/">
+                                       <div class="links">
+                                        <span class="text-16 underline is-navy">Customers</span>
+                                        <img class=" " src="/images/gr-arrow-f1ef722d.svg" alt="arrow" title="arrow">
+                                       </div>
+                                    </a> 
+                                    <a class="nav-link" href="/partners/">
+                                       <div class="links">
+                                        <span class="text-16 underline is-navy">Partners</span>
+                                        <img class=" " src="/images/gr-arrow-f1ef722d.svg" alt="arrow" title="arrow">
+                                       </div>
+                                    </a> 
+                                    <a class="nav-link" href="https://support.influxdata.com/s/">
+                                       <div class="links">
+                                        <span class="text-16 underline is-navy">Support</span>
+                                        <img class=" " src="/images/gr-arrow-f1ef722d.svg" alt="arrow" title="arrow">
+                                       </div>
+                                    </a> 
+                                    <a class="nav-link" href="/_resources/">
+                                       <div class="links">
+                                        <span class="text-16 underline is-navy">Webinars</span>
+                                        <img class=" " src="/images/gr-arrow-f1ef722d.svg" alt="arrow" title="arrow">
+                                       </div>
+                                    </a>   
+                                </div> 
+
+                                <div class="border-btm is-flex is-flex-direction-column py-5">
+                                    <h5 class="is-navy m-0 pb-4">Build</h5>
+                                    
+                                    <a class="nav-link" href="https://docs.influxdata.com/">
+                                        <div class="links">
+                                            <span class="text-16 underline is-navy">Documentation</span>
+                                            <img class=" " src="/images/gr-arrow-f1ef722d.svg" alt="arrow" title="arrow">
+                                        </div>
+                                       </a>
+                                       <a class="nav-link" href="/products/influxdb/">
+                                        <div class="links">
+                                            <span class="text-16 underline is-navy">InfluxDB OSS</span>
+                                            <span class="menu-tag is-navy">BETA</span>
+                                        </div>
+                                       </a>
+                                       <a class="nav-link" href="/time-series-platform/telegraf/">
+                                        <div class="links">
+                                            <span class="text-16 underline is-navy">Telegraf Data Collection</span>
+                                            <img class=" " src="/images/gr-arrow-f1ef722d.svg" alt="arrow" title="arrow">
+                                        </div>
+                                       </a>
+                                       <a class="nav-link" href="/influxdb-cloud-on-aws/">
+                                        <div class="links">
+                                            <span class="text-16 underline is-navy">AWS</span>
+                                            <img class=" " src="/images/gr-arrow-f1ef722d.svg" alt="arrow" title="arrow">
+                                        </div>
+                                       </a> 
+                                       <a class="nav-link" href="/products/integrations/">
+                                        <div class="links">
+                                            <span class="text-16 underline is-navy">Integrations</span>
+                                            <img class=" " src="/images/gr-arrow-f1ef722d.svg" alt="arrow" title="arrow">
+                                        </div>
+                                       </a> 
+                                </div> 
+
+                                <div class="is-flex is-flex-direction-column py-5">
+                                    <h5 class="is-navy m-0 pb-4">Connect</h5>
+                                                                      
+                                    <a class="nav-link" href="/university/">
+                                        <div class="links">
+                                            <span class="text-16 underline is-navy">InfluxDB University</span>
+                                            <img class=" " src="/images/gr-arrow-f1ef722d.svg" alt="arrow" title="arrow">
+                                        </div>
+                                    </a>
+                                    <a class="nav-link" href="/community/">
+                                        <div class="links">
+                                            <span class="text-16 underline is-navy">Community</span>
+                                            <img class=" " src="/images/gr-arrow-f1ef722d.svg" alt="arrow" title="arrow">
+                                        </div>
+                                    </a> 
+                                    <a class="nav-link" href="/events/">
+                                        <div class="links">
+                                            <span class="text-16 underline is-navy">Events and Live Training</span>
+                                            <img class=" " src="/images/gr-arrow-f1ef722d.svg" alt="arrow" title="arrow">
+                                        </div>
+                                    </a> 
+                                </div>                             
+                                
+                            </div> <!-- #end px-5  -->
+
+                            <div class="grey-bgr-new is-flex is-flex-direction-column pt-5 pb-60-mob px-5">
+                                <h5 class="is-navy m-0 pb-4">Featured Resources</h5>
+                                
+                                <a class="nav-link" href="/products/influxdb3/">
+                                    <div class="links">
+                                        <span class="text-16 underline is-navy">InfluxDB 3 Open Source Public Beta</span>
+                                        <img class=" " src="/images/gr-arrow-f1ef722d.svg" alt="arrow" title="arrow">
+                                    </div>
+                                </a>
+                                    
+                                <a class="nav-link" href="/blog/sync-influxdb-v2-v3-quix/">
+                                    <div class="links">
+                                        <span class="text-16 underline is-navy">Streamline Migration to InfluxDB 3</span>
+                                        <img class=" " src="/images/gr-arrow-f1ef722d.svg" alt="arrow" title="arrow">
+                                    </div>
+                                </a> 
+                            </div> 
+
+                        </div>
+                    </div>  <!-- #End navbar-item-->
+     
+                    <div class="navbar-item has-dropdown-old pt-4 pb-5">
+                        <a class="navbar-link is-arrowless" href="/influxdb-pricing/">Pricing</a>  
+                    </div>    
+
+                    <div class="navbar-item has-dropdown-old border-btm pt-5 pb-4">                          
+                        <a class="navbar-link is-arrowless" href="/contact-sales/">Contact Us</a>
+                    </div>    
+                       
+                    <div class="navbar-item has-dropdown-old pt-4 pb-60-mob">
+                        <a class="navbar-link mob-open">Sign In <i class="fa-solid fa-chevron-right"></i></a>
+
+                        <div class="mob-dropdown">
+                            <div class="border-pink-top is-flex is-flex-direction-row pt-4 px-4" style="gap: 30px;">
+                                <div class="close-dropdown"><i class="fa-solid fa-chevron-left"></i></div>  
+                                <p class="mob-name">Sign In</p>  
+                            </div>
+
+                            <div class="px-5 py-30">
+
+                                <div class="is-flex is-flex-direction-column pb-4">
+                                                                                                        
+                                    <a href="https://cloud2.influxdata.com/login">
+                                        <div class="links">
+                                            <span class="text-16 underline is-navy">Log in to InfluxDB Cloud 2.0</span>
+                                            <img class=" " src="/images/gr-arrow-f1ef722d.svg" alt="arrow" title="arrow">
+                                        </div>
+                                    </a> 
+                                    <a href="https://portal.influxdata.com/users/sign_in">
+                                    <div class="links">
+                                        <span class="text-16 underline is-navy">Log in to InfluxDB Enterprise</span>
+                                        <img class=" " src="/images/gr-arrow-f1ef722d.svg" alt="arrow" title="arrow">
+                                    </div>
+                                    </a> 
+                                    <a href="https://cloud.influxdata.com/">
+                                    <div class="links">
+                                        <span class="text-16 underline is-navy">Log in to InfluxDB Cloud 1.x</span>
+                                        <img class=" " src="/images/gr-arrow-f1ef722d.svg" alt="arrow" title="arrow">
+                                    </div>
+                                    </a> 
+                                </div> 
+                                
+                            </div> <!-- #end px-5  -->
+
+                        </div><!-- #end mob-dropdown  -->
+                        
+                    </div>
+                   
+                </div>
+            </div>
+            
+            
+        </nav>
+    </div>
+   </div> 
+</header>
+
+<div id="overlay" class="overlay"></div>
+
+<style>
+@media screen and (max-width: 1024px) {
+    .navbar-link:not(.is-arrowless)::after {
+        display: none;
+    }
+}
+
+.no-scroll {
+    overflow: hidden;
+    height: 100%; 
+}
+
+.menu-tag {
+    border-radius: 4px;
+    background: #D6D8F7;
+    padding: 3px 8px;
+    margin-left: 5px;
+}
+</style>
+
+
+
+
+<script>
+$(window).scroll(function() {
+    if ($(window).scrollTop() > 10) {
+        $('#masthead').addClass('floatingNav');
+    } else {
+        $('#masthead').removeClass('floatingNav');
+    }
+});
+</script>
+
+
+<script>
+$(document).ready(function() {
+    const overlay = $('#overlay');
+
+    $('.navbar-item.has-dropdown').hover(
+        function() {
+            overlay.show(); // Show the overlay when hovering over a dropdown item
+        },
+        function() {
+            // Hide the overlay if not hovering over any .navbar-item.has-dropdown
+            if (!$('.navbar-item.has-dropdown:hover').length) {
+                overlay.hide();
+            }
+        }
+    );
+
+    overlay.click(function() {
+        overlay.hide(); // Hide the overlay when it's clicked
+    });
+});
+</script>
+
+<script>
+  document.addEventListener('DOMContentLoaded', () => {
+    const mobOpenLinks = document.querySelectorAll('.mob-open');
+    const closeDropdownButtons = document.querySelectorAll('.close-dropdown');
+    const body = document.body;
+
+    mobOpenLinks.forEach(mobOpenLink => {
+        mobOpenLink.addEventListener('click', () => {
+            const mobDropdown = mobOpenLink.nextElementSibling;
+            if (mobDropdown && mobDropdown.classList.contains('mob-dropdown')) {
+                mobDropdown.style.display = 'block';
+                body.classList.add('no-scroll');
+            }
+        });
+    });
+
+    closeDropdownButtons.forEach(closeDropdown => {
+        closeDropdown.addEventListener('click', () => {
+            const mobDropdown = closeDropdown.closest('.mob-dropdown');
+            if (mobDropdown) {
+                mobDropdown.style.display = 'none';
+                body.classList.remove('no-scroll');
+            }
+        });
+    });
+
+    // Fix for iOS scrolling issue
+    document.querySelectorAll('.mob-dropdown').forEach(mobDropdown => {
+        mobDropdown.addEventListener('touchstart', function () {
+            const scrollTop = mobDropdown.scrollTop;
+            const totalScroll = mobDropdown.scrollHeight;
+            const currentScroll = scrollTop + mobDropdown.offsetHeight;
+
+            if (scrollTop === 0) {
+                mobDropdown.scrollTop = 1;
+            } else if (currentScroll === totalScroll) {
+                mobDropdown.scrollTop = scrollTop - 1;
+            }
+        });
+
+        mobDropdown.addEventListener('touchmove', function (e) {
+            if (mobDropdown.offsetHeight < mobDropdown.scrollHeight) {
+                e.stopPropagation();
+            }
+        });
+    });
+});
+
+</script>
+
+
+     
+        <main id="main" class="site-main">
+            <article class="page type-page status-publish format-standard ast-article-single" id="" itemtype="https://schema.org/CreativeWork" itemscope="itemscope">
+
+              <div class="content is-content" data-slug='404'>
+
+
+  
+  <div class="section py-5">
+     <div class="container teal-gradient-bg br-20">
+       <div class="max-900 m-auto">
+        <div class="columns is-vcentered is-variable is-2">
+            <div class="column has-text-right-desktop has-text-centered-touch">
+              <img class="img-404" src="//images.ctfassets.net/o7xu9whrs0u9/4hg2QaWUuyQKySNM2lq5q0/f4191c4df3b5492bb08b37584f437522/404.png" alt="404">
+            </div>
+            <div class="column">
+              <img class="is-hidden-touch" src="//images.ctfassets.net/o7xu9whrs0u9/4WhPhuXsOtsyLMfioNrFbe/a44535145837f403cd77595d1f2067ca/kubo-404.svg" alt="kubo-404" width="600" height="auto">
+            </div>
+        </div>
+        </div>
+    </div>
+ </div>
+ 
+  <div class="section">
+    <div class="container"> 
+      <div class="max-900 m-auto py-50"> 
+      <p class="text-36 has-text-weight-bold">Oops, it looks like you've taken a wrong turn! The page you are looking for seems to have vanished into the digital abyss. 
+      But don't worry; we're here to help you get back on track.</p>
+      
+      <p class="text-18">
+        <b>Here are a few things you can try:</b></p>
+        <ul class="text-18">
+          <li>Check the URL: Make sure there are no typos or mistakes in the web address. Sometimes a small error can lead you to a dead end.</li>
+          <li>Return to the Homepage: You can always start fresh by clicking on our logo and navigating from there.</li>
+          <li>Search: If you're looking for something specific, our search is a handy tool to find what you need.</li>
+          <li>Contact Us: If you believe there's a problem with our website or if you still can't find what you're looking for, please feel free to contact our friendly support team. We're here to assist you.</li>
+</ul>
+
+<p class="text-18">We apologize for any inconvenience. Our website is constantly evolving, and sometimes pages move or change. Thank you for your patience and understanding.</p>
+      </p>
+      </div>
+    </div>
+  </div>
+  
+
+</div>
+
+            </article>
+        </main>
+        <div class="footer">
+    <div class="section py-1">
+
+        <div class="section py-1 footer-logo">
+            <div class="container with-logo py-6">      
+                <img src="/images/influxdata_full_white-f14e8966.svg" width="297" height="auto" alt="InfluxData logo" title="InfluxData logo">
+            </div>
+         </div>
+
+        <div class="section py-1 footer-menu">
+            <div class="container">            
+                <div class="columns">
+                    
+                    <div class="column">
+                        <h5 class="">Product & Solutions</h5>
+                        <ul class="footer-list">
+                            <li><a href="/get-influxdb/">InfluxDB</a></li>
+                            <li><a href="/products/influxdb-cloud/serverless/">InfluxDB Cloud Serverless</a></li>
+                            <li> <a href="/products/influxdb-cloud/dedicated/">InfluxDB Cloud Dedicated</a></li>
+                            <li><a href="/products/influxdb-clustered/">InfluxDB Clustered</a></li>
+                            <li><a href="/lp/oss-vs-new-engine/">InfluxDB Comparison</a></li>
+                            <li><a href="/products/integrations/">Integrations</a></li>
+                            <li><a href="/glossary/data-warehouse/">Data Lake / Warehouse</a></li>
+                            <li><a href="/time-series-platform/telegraf/">Data Collector</a></li>
+                            <li><a href="/influxdb-pricing/">Pricing</a></li>
+                            <li><a href="/solutions/">Use Cases</a></li>
+                            <li><a href="/what-is-time-series-data/">Time Series Data</a></li>
+                            <li><a href="/time-series-database/">Time Series Database</a></li>
+                            <li><a href="/time-series-forecasting-methods/">Time Series Forecasting</a></li>
+                            <li><a href="/glossary/data-warehouse/">Data Warehousing</a></li>
+                            <li><a href="/solutions/network-monitoring/">Network Monitoring</a></li>   
+                    
+                        </ul>
+                    </div>
+
+                    
+                    <div class="column">
+                        <h5 class="">Developers</h5>
+                        <ul class="footer-list">
+                            <li><a href="/_resources/">Guides</a></li>
+                            <li> <a href="/blog/">Blog</a></li>
+                            <li><a href="/customers/">Customers</a></li>
+                            <li><a href="https://support.influxdata.com/">Support</a></li>
+                            <li><a href="/_resources/">Webinars</a></li>
+                            <li><a href="https://docs.influxdata.com/">Documentation</a></li>
+                            <li><a href="/events/">Events & Live Training</a></li>
+                            <li> <a href="https://university.influxdata.com/" target="_blank">InfluxDB University</a></li>
+                            <li><a href="https://community.influxdata.com/" target="_blank" rel="noopener noreferrer">Community</a></li>
+                            <li><a href="/products/influxdb/">InfluxDB OSS</a></li>
+                            <li> <a href="/time-series-platform/telegraf/">Telegraf</a></li>
+                            <li><a href="/influxdb-cloud-on-aws/">AWS</a></li>
+                            <li><a href="/products/integrations/">Product Integrations</a></li>
+                            <li><a href="/glossary/">Glossary</a></li>
+                        </ul> 
+                    </div>
+
+
+                    <div class="column">
+                        <h5 class="">Company</h5>
+                        <ul class="footer-list">
+                            <li><a href="/about/">About</a></li>
+                            <li> <a href="/careers/">Careers</a></li>
+                            <li><a href="/partners/">Partners</a></li>
+                            <li><a href="/newsroom/">Newsroom</a></li>
+                            <li><a href="/general-inquiries/">Contact Us</a></li>
+                            <li><a href="/customers/">Customers</a></li>                     
+                        </ul> 
+                    </div>
+
+                    <div class="column">
+                        <div class="signup pb-5">
+                            <h5 style="margin-bottom: 30px;">Sign up for the InfluxData newsletter</h5>
+                            <div>
+                                <form id="mktoForm_1212"></form> 
+                            </div>
+                        </div>               
+                    </div>
+
+                </div> 
+            </div>     
+        </div>   
+ 
+        <div class="section py-1 footer-address">
+            <div class="container pt-50 pb-20 b-border">
+                <div class="columns is-desktop">                    
+                    <div class='column'> 
+                        <p>548 Market St, PMB 77953<br>San Francisco, California 94104</p>            
+                    </div> 
+
+                    <div class='column is-one-quarter'>
+                        <div class="social-icons">
+                             <h5>Follow Us</h5>
+
+                            <a class="" href="https://www.youtube.com/@influxdata8893" target="_blank" rel="noopener" aria-label="Go to https://www.youtube.com/@influxdata8893">
+                                <div class="uabb-img icon-wrap"> <span class="uabb-icon-wrap">
+                                        <span class="uabb-icon">
+                                            <i class="fa-brands fa-youtube" style="margin-left: -5px;"></i>
+                                        </span>
+                                    </span>
+                                </div>
+                            </a>
+
+                            <a class="" href="https://twitter.com/influxdb" target="_blank" rel="noopener" aria-label="Go to https://twitter.com/influxdb">
+                                <div class="uabb-img icon-wrap"> <span class="uabb-icon-wrap">
+                                        <span class="uabb-icon">
+                                            <img src="//images.ctfassets.net/o7xu9whrs0u9/4fDx6xWWz9MAxYFYIhJ84g/6207b0255e0be642061d121447477740/logo.svg" width="18" height="18" alt="twitter" title="twitter">
+                                        </span>
+                                    </span>
+                                </div>
+                            </a>
+                            <a class="" href="https://www.linkedin.com/company/influxdb/" target="_blank" rel="noopener" aria-label="Go to https://www.linkedin.com/company/influxdb/">
+                                <div class="uabb-imgicon-wrap"> <span class="uabb-icon-wrap">
+                                        <span class="uabb-icon">
+                                            <i class="ua-icon ua-icon-linkedin2"></i>
+                                        </span>
+                                    </span>
+                                </div>
+                            </a>
+                            <a class="" href="https://github.com/influxdata/influxdb" target="_blank" rel="noopener" aria-label="Go to https://github.com/influxdata/influxdb">
+                                <div class="uabb-module-content uabb-imgicon-wrap"> <span class="uabb-icon-wrap">
+                                        <span class="uabb-icon">
+                                            <i class="fab fa-github"></i>
+                                        </span>
+                                    </span>
+                                </div>
+                            </a>
+                            <a class="" href="/slack" target="_blank" rel="noopener" aria-label="Go to /slack">
+                                <div class="uabb-module-content uabb-imgicon-wrap"> <span class="uabb-icon-wrap">
+                                        <span class="uabb-icon">
+                                            <i class="fab fa-slack"></i>
+                                        </span>
+                                    </span>
+                                </div>
+                            </a>
+                        </div> 
+                    </div> 
+                   
+
+                </div> 
+            </div>    
+        </div>  
+
+
+        <div class="section py-1">
+            <div class="container">
+                <div class="footer-copyright pt-5">
+                    <p class="has-text-white">© 2025 InfluxData Inc. All Rights Reserved. </p>            
+                    <div class="legal-links">
+                        <a href="/legal/ ">Legal</a> 
+                        <a href="/security/ ">Security</a> 
+                        <a href="/legal/cookie-policy/">Cookie Policy</a>
+                        <a href="/comparison/">Comparison</a>
+                    </div>
+                </div> 
+            </div> 
+        </div>           
+  
+  </div>                                    
+</div>    
+        
+    </div>
+    <script src="/javascripts/site-954757c2.js"></script>
+    <script>
+  function eucheck(){
+    jQuery.ajax({
+      url: 'https://api.ipstack.com/check?access_key=74ccbfcd090188a37406c443ec8e7c88',
+      dataType: 'jsonp',
+      success: function(json) {
+        var is_eu = json.location.is_eu;
+        var d = new Date();
+        d.setTime(d.getTime() + (90 * 24 * 60 * 60 * 1000));
+        var expires = "expires="+d.toUTCString();
+        document.cookie = "is_eu=" + is_eu + ";" + expires + ";path=/";
+        hide_mkto_opt();
+      }
+    });
+  }
+
+  function set_nav_offsets(){
+    $('.navbar-item.navbar-delux').each(function(i,item){ 
+        var fullPositionLeft = $(this).offset().left;
+        $(this).find( '.navbar-dropdown' ).css( { 'left': '-'+fullPositionLeft+'px', 'width': $(window).width()+'px' } );
+    });
+  }
+  window.onload = function(){
+    //set_nav_offsets(); // note: important to do on load and not on 'ready'
+  };
+
+
+
+
+   function set_nav_burger(){
+      $(".nav-primary .navbar-burger").click(function() {
+         // Toggle the "is-active" class on both the "navbar-burger" and the "navbar-menu"
+         $(".nav-primary .navbar-burger").toggleClass("is-active");
+         $(".nav-primary .navbar-menu").toggleClass("is-active");
+         $(".nav-primary .navbar-dropdown").hide();
+      });
+      $(".nav-secondary .navbar-burger").click(function() {
+         // Toggle the "is-active" class on both the "navbar-burger" and the "navbar-menu"
+         $(".nav-secondary .navbar-burger").toggleClass("is-active");
+         $(".nav-secondary .navbar-menu").toggleClass("is-active");
+      });
+      $('.navbar-dropdown-extender').on('click',function(){
+        $(this).parent().find('.navbar-dropdown').slideToggle();
+      });
+   }
+   
+
+
+
+   function LoadDriftWidget() {
+     var t = window.driftt = window.drift = window.driftt || [];
+     if (!t.init) {
+       if (t.invoked) return void (window.console && console.error && console.error("Drift snippet included twice."));
+       t.invoked = !0, t.methods = [ "identify", "config", "track", "reset", "debug", "show", "ping", "page", "hide", "off", "on" ], 
+       t.factory = function(e) {
+         return function() {
+           var n = Array.prototype.slice.call(arguments);
+           return n.unshift(e), t.push(n), t;
+         };
+       }, t.methods.forEach(function(e) {
+         t[e] = t.factory(e);
+       }), t.load = function(t) {
+         var e = 3e5, n = Math.ceil(new Date() / e) * e, o = document.createElement("script");
+         o.type = "text/javascript", o.async = !0, o.crossorigin = "anonymous", o.src = "https://js.driftt.com/include/" + n + "/" + t + ".js";
+         var i = document.getElementsByTagName("script")[0];
+         i.parentNode.insertBefore(o, i);
+       };
+     }
+     drift.SNIPPET_VERSION = '0.3.1';
+     drift.load('ri4y55d3zbxh');
+   }
+
+
+  let isMarketoInitialized = false;
+
+  function initMarketoFormsOnload() {
+      if (isMarketoInitialized) {
+          console.log("Marketo already initialized, skipping.");
+          return;
+      }
+      console.log("initMarketoFormsOnload called.");
+
+      if (typeof (MktoForms2) === 'undefined') {
+          const element = document.createElement("script");
+          element.src = "https://get.influxdata.com/js/forms2/js/forms2.min.js";
+          element.onload = function () {
+              console.log("Marketo script loaded.");
+              setMktoOptions();
+          };
+          document.body.appendChild(element);
+      } else {
+          console.log("MktoForms2 already loaded.");
+          setMktoOptions();
+      }
+
+      isMarketoInitialized = true; // Set the flag to true after initializing
+  }
+
+
+
+  const minKeys = ['testimonialProjectDescription', 'testimonialFeatures','testimonialCustomerQuote','testimonialTips'];
+  const hoodieFormId = 2224;
+  var captcha_response;
+  var minLengths = {
+    testimonialProjectDescription: 450,
+    testimonialFeatures: 450,
+    testimonialCustomerQuote: 450,
+    testimonialTips: 150
+  };
+
+  function checkMinLen(e){
+    var l = jQuery(this).val().length,
+        id = jQuery(this).attr('id');
+    if( ! minLengths[id] ) return;
+    jQuery(this).parent().find('.mktoError').remove();
+    jQuery(this).removeClass('minvalInvalid');
+    if( l < minLengths[id] ){
+      jQuery(this).removeClass('mktoValid').addClass('minvalInvalid');
+      jQuery(this).after("<div class='mktoError'>"+l+"/"+minLengths[id]+" of minimum</div>");
+      return false;
+    }
+    f = MktoForms2.getForm( hoodieFormId );
+    f.submitable(true);
+  }
+
+  var setMinLenFocus = false;
+
+  function checkHoodieMinLen(){
+     setMinLenFocus = false;
+     f = MktoForms2.getForm( hoodieFormId );
+     if( !f ){ return }
+     f.submitable(true);
+     minKeys.forEach(function(k){
+       if( jQuery("#"+k).length < 1 ){ return false; }
+       var $t = jQuery("#"+k);
+       var l = $t.val().length;
+       if( l < minLengths[k] ){
+         f = MktoForms2.getForm( hoodieFormId );
+         f.submitable(false);
+         setTimeout(function(){ reEnableMktoForm(f); }, 500);
+         $t.removeClass('mktoValid').addClass('minvalInvalid');
+         $t.after("<div class='mktoError'>"+l+"/"+minLengths[k]+" of minimum</div>");
+         setMinLenFocus ||= k;
+       }
+     });
+     if( setMinLenFocus ){
+        jQuery("#"+setMinLenFocus).focus();
+     }
+  }
+
+  function reEnableMktoForm(f){
+     if( !f ){ return }
+     f.submitable(true);
+  }
+
+  function checkCaptcha(form){
+    console.log('checkCaptcha');
+    form.submittable(false);
+    var formEl = form.getFormElem()[0],
+        formElId = form.getId(),
+        submitEl = formEl.querySelector('BUTTON[type="submit"]');
+    if (captcha_response) {
+      form.addHiddenFields({
+        lastRecaptchaEnabledFormID: formElId
+      });
+      if(!capr){ 
+        capstat(form); 
+        return false;
+      } else if( !valid_eml ){
+        eml_chk(form);
+        return false;
+      } else  {
+        console.log('cptch gd');
+        gtmid(form);
+        form.submittable(true);
+        return true;
+      }
+    }
+    console.log('cptch ft');
+    gtmid(form);
+    form.submittable(true);
+    return true;
+  }
+
+
+  var capform, capr, valid_eml = false;
+  const chk_hst = 'https://t.influxstaging.com';
+
+  function capstat(form){
+    console.log('capstat');
+
+    capform = form;
+
+    let chk_url = chk_hst + '/cap/'+captcha_response;
+
+    // if the form has an email, send that as well, base64 encoded.
+    let email = form.getValues().Email;
+    if( email ){
+      chk_url += '?ml='+btoa(email);
+    }
+
+    $.get(chk_url, function(data){
+      console.log('capstat resp', data);
+      if( data.success === true ){
+        capr = true;
+
+        capform.addHiddenFields({
+          'lastRecaptchaUserInput': data.score
+        });
+        
+        handle_bv_response(data);
+        
+      } else {
+        capr = true;
+        form.submittable(true);
+        form.submit();
+
+      }
+    });
+  }
+
+  function eml_chk(form){
+    console.log('eml_chk');
+    capform = form;
+    let chk_url = chk_hst + '/eml';
+    let email = form.getValues().Email;
+    if( email ){
+      chk_url += '?ml='+btoa(email);
+    } else {
+      return false;
+    }
+    $.get(chk_url, function(data){ handle_bv_response(data); } );
+  }
+
+  function handle_bv_response(data){
+    $('#emlErr').remove();
+      
+    if( 
+        data.verify_status && 
+        data.verify_status == 'invalid' 
+    ){
+        // add error message to the marketo form:
+        var emailElem = capform.getFormElem().find("#Email");
+        $('<span id="emlErr" class="mktoError">Must be valid email. example@company.com</span>').insertAfter(emailElem);
+        capform.submittable(true);
+
+        // enable the submit button as well (some forms, but not tall, disable the button and update the text)
+        var submitButton = $(capform.getFormElem()).find('button[type=submit]')[0];
+        if( submitButton ){
+          submitButton.disabled = false;
+          if( submitButton.textContent.match(/ing|\.\.\./) ){ // ex: "Submitting..."
+            submitButton.textContent = "Submit"; 
+          }
+        }
+
+        return false;
+    }
+
+    valid_eml = true;
+          
+    if( data.verify_status ){
+      capform.addHiddenFields({
+        'Validity_Verify__Checked__c': true,
+        'Validity_Verify__Status__c': data.verify_status,
+        'Validity_Verify__Timestamp__c': new Date().toISOString()
+      });
+    }
+    capform.submittable(true);
+    capform.submit();
+  }
+
+
+  function fix_mkto_labels(){
+      jQuery('form.mktoForm').find('label,input,select,textarea').each(function(){ jQuery(this).removeAttr('style') });
+      jQuery('.mktoForm .mktoRadioList').parent().find('label').addClass('radio_label');
+
+      // remove colons from labels
+      jQuery.each( jQuery('label.mktoLabel'), function(i,val){ jQuery(val).html( jQuery(val).html().replace(':','')) } );
+      // hide asterisks on checkboxes
+      jQuery('.mktoCheckboxList').parent().find('.mktoAsterix').hide();
+      jQuery('.mktoCheckboxList').parent().find('label').addClass('checkboxLabel')
+      // fix labels for selects
+      jQuery('form.mktoForm').find('select').each(function(){
+        var $sv = jQuery(this);
+        var $lb = $sv.parent().find('label:visible');
+        var op = $sv.find('option')[0];
+
+         if( $lb.length > 0 && op.value == '' ){
+          var txt = $lb.text();
+          if( txt.match(/\*/) ){ txt = txt.replace("*",''); }
+          jQuery(op).html( txt+" " );
+          $lb.remove();
+        }
+      });
+
+      // dynamically change the labels:
+      jQuery('input.mktoField, textarea.mktoField').on('focus',function(){ jQuery(this).parent().find('label').addClass('triggered'); });
+      jQuery('input.mktoField, textarea.mktoField').on('blur',function(){
+        if( jQuery(this).val() == '' ) jQuery(this).parent().find('label').removeClass('triggered');
+      });
+      jQuery('select.mktoField').on('focus click',function(){ jQuery(this).addClass('triggered'); jQuery(this).parent().find('label').addClass('triggered'); });
+      jQuery('select.mktoField').on('blur change',function(){
+        if( jQuery(this).val() == '' ) jQuery(this).removeClass('triggered');
+      });
+      // focus the form field when the label is clicked, since it covers part of the input
+      jQuery('label.mktoLabel').on('click',function(){ jQuery(this).parent().find('input,select').focus(); })
+  }
+
+
+  if (typeof(mktoFormFix) == 'undefined') {
+    mktoFormFix = function(form) {
+        //console.log('mktoFormFix - placeholder');
+    }
+  }
+
+
+  function setMktoOptions(){
+    // console.log('orig setMktoOptions');
+    MktoForms2.setOptions({ formXDPath:"/rs/972-GDU-533/images/marketo-xdframe-relative.html" });
+
+    MktoForms2.whenRendered(function(form) {
+      jQuery('textarea.mktoRequired').on('blur keyup',checkMinLen);
+    });
+
+    jQuery("form[id^=mktoForm_]").each(function(){
+      if( jQuery(this).hasClass('skipautoload') ){ return; }
+      var mktoFormIds = MktoForms2.allForms().map(function(e){ return e.getId() });
+      var form_id_str = jQuery(this).attr('id');
+      var form_id = parseInt(form_id_str.replace('mktoForm_',''));
+      if( !mktoFormIds.includes( form_id ) ){
+        MktoForms2.loadForm("https://get.influxdata.com", "972-GDU-533", form_id);
+      }
+    });
+
+    // Override Marketo Form Styling
+    MktoForms2.whenReady(function (form) {
+      //console.log('MktoForms ready');
+      var formEl = form.getFormElem()[0];
+      mktoFormFix(form);
+      var form_id = parseInt(formEl.id.replace('mktoForm_',''));
+      switch(form_id){
+        case 1135:
+          form.addHiddenFields({'mkto_content_name':'General Inquiries'}); break;
+        case 1137:
+          form.addHiddenFields({'mkto_content_name':'Preference Center'}); break;
+        case 1195:
+          form.addHiddenFields({'mkto_content_name':'Testimonials'}); break;
+        case 1202:
+          form.addHiddenFields({'mkto_content_name':'Meetup Sticker Request'}); break;
+        case 1205:
+          form.addHiddenFields({'mkto_content_name':'DevOps Days Form'}); break;
+        case 1212:
+          form.addHiddenFields({'mkto_content_name':'Newsletter Signup'}); break;
+        case 1606:
+          form.addHiddenFields({'mkto_content_name':'Blog Subscription'}); break;
+        case 1829:
+          form.addHiddenFields({'mkto_content_name':'Support OSS'}); break;
+        case 1889:
+          form.addHiddenFields({'mkto_content_name':'Sticker Request'}); break;
+        case 2935: // communication preferences
+          // add option to unsubscribe from all
+          $('<a class="uns-link" href="#">Unsubscribe from all emails</a>').insertAfter('.mktoEmailField').on('click',function(){
+            const $unsub_all = $(`#${formEl.id} input[type=checkbox`).last();
+            $([document.documentElement, document.body]).animate({
+                scrollTop: ($unsub_all.offset().top-200)
+            }, 1000); // scroll down to the last one
+            $(`#${formEl.id} input[type=checkbox`).prop('checked',false); // uncheck them all
+            $unsub_all.click(); // check just the last one
+          });
+          break;
+          
+      }
+      if( form_id == hoodieFormId ){
+        form.onSubmit(function(f){
+          checkHoodieMinLen(f);
+          return checkCaptcha(f);
+         });
+      } 
+      // else if( [2926,3144,2885].includes(form_id) ) {  // not forms with chili piper - 2847,
+      //   form.onSubmit(function(f){
+      //     gtmid(f);
+      //     return true;
+      //   });
+      // }
+      else if( [2935].includes(form_id) ) {  // no captcha on unsubscribe/communication preferences
+        form.onSubmit(function(f){
+          gtmid(f);
+          return true;
+        });
+      }
+      else {
+        form.onSubmit(function(f){
+          console.log('form submit');
+          return checkCaptcha(f);
+        });
+      }
+
+      // when an email field is edited, make sure the error message is removed
+      $("#Email").on('change',function(){
+        $('#emlErr').remove();
+      });
+
+      // remove element styles from root and children (may want to disable this while debugging)
+      for (var elsWithStyles = document.querySelectorAll('#' + formEl.id + ', #' + formEl.id + ' [style]'), i = 0, imax = elsWithStyles.length; i < imax; i++) {
+          elsWithStyles[i].removeAttribute('style');
+      }
+
+      // disable all Marketo-sourced stylesheets
+      //console.log('clear mkto styles');
+      for (var styleSheets = document.styleSheets, i = 0, imax = styleSheets.length; i < imax; i++) {
+        var ssLoc = document.createElement('A');
+        ssLoc.href = styleSheets[i].href;
+
+        if ((ssLoc.hostname.search(/\.marketo\.com$/) !== -1) //  external STYLEs
+        ||
+        (ssLoc.hostname.search(/get\.influxdata\.com$/) !== -1)
+        ||
+        ((styleSheets[i].ownerNode || styleSheets[i].owningElement).parentNode == formEl)) { //  inline STYLEs within FORM tag
+            styleSheets[i].disabled = true;
+        }
+      }
+
+      // remove embedded styles - must re-run every time something is changed
+      fix_mkto_labels();
+      jQuery('form.mktoForm').find('label,input,select,textarea').on('change', function(){ setTimeout(
+        function(){
+          fix_mkto_labels();
+        }, 500);
+      });
+
+
+
+    });
+
+    // after all forms are loaded, set the gtmid if available
+    if( getCookie('gtmid') ){
+      dataLayer.push({'user_id': getCookie('gtmid') });
+    }
+  }
+
+    
+
+
+   $(document).ready(function(){
+     set_nav_burger();
+
+     /* delay loading drift */
+     setTimeout(function() {
+       LoadDriftWidget();
+     }, 2000);
+      
+   });
+
+  /* -- defer as much here as possible to prevent render blocking -- */
+  window.addEventListener('load', function () {
+
+    jQuery.ajax({
+      url: 'https://www.google.com/recaptcha/api.js?render=6Le4K48UAAAAALkQHkVA4G8XXpLWEb5xy7JC5bux',
+      dataType: 'script',
+      cache: true,
+      success: function(){
+        grecaptcha.ready(function() {
+          grecaptcha.execute('6Le4K48UAAAAALkQHkVA4G8XXpLWEb5xy7JC5bux', {action: 'submit'}).then(function(token) {
+            captcha_response = token;
+          });
+          jQuery('.grecaptcha-badge').hide();
+        });
+      }
+    });
+
+    /* Load Marketo Munchkin Code */
+    jQuery.ajax({
+      url: '//munchkin.marketo.net/munchkin.js',
+      dataType: 'script',
+      cache: true,
+      success: function() {
+        Munchkin.init('972-GDU-533');
+      }
+    });
+
+    /* Init Marketo Forms */
+    initMarketoFormsOnload();
+  });
+
+
+
+
+
+
+
+  function md5Cycle(x, k) {
+      var a = x[0], b = x[1], c = x[2], d = x[3];
+      a = ff(a, b, c, d, k[0], 7, -680876936);
+      d = ff(d, a, b, c, k[1], 12, -389564586);
+      c = ff(c, d, a, b, k[2], 17,  606105819);
+      b = ff(b, c, d, a, k[3], 22, -1044525330);
+      a = ff(a, b, c, d, k[4], 7, -176418897);
+      d = ff(d, a, b, c, k[5], 12,  1200080426);
+      c = ff(c, d, a, b, k[6], 17, -1473231341);
+      b = ff(b, c, d, a, k[7], 22, -45705983);    
+      return [a, b, c, d];
+  }
+  function hex(n) {
+      var s="", v;
+      for (var i=7; i>=0; i--) { v = (n>>>(i*4)) & 0xf; s += v.toString(16); }
+      return s;
+  }
+  function md5blk(s) { 
+      var md5blks = [], i; 
+      for (i=0; i<64; i+=4) {
+          md5blks[i>>2] = s.charCodeAt(i)
+          + (s.charCodeAt(i+1) << 8)
+          + (s.charCodeAt(i+2) << 16)
+          + (s.charCodeAt(i+3) << 24);
+      }
+      return md5blks;
+  }
+  function ff(a, b, c, d, x, s, t) {
+      var n = a + ((b & c) | ((~b) & d)) + x + t;
+      return ((n << s) | (n >>> (32 - s))) + b;
+  }
+  function createHash(str) {
+    var n = str.length,
+      state = [1732584193, -271733879, -1732584194, 271733878], i;
+    for (i=64; i<=str.length; i+=64) {
+      state = md5Cycle(state, md5blk(str.substring(i-64, i))); 
+    }
+    str = str.substring(i-64);
+    var tail = Array(str.length);
+    for (i=0; i<str.length; i++) tail[i] = str.charCodeAt(i);
+    var s = state, len = n * 8;
+    tail[n >> 2] |= 0x80 << ((n) % 4 << 3);
+    tail[(((n + 8) >> 6) << 4) + 14] = len;
+    s = md5Cycle(s, tail); // Update the line to assign the result back to 's'
+    return hex(s[0]) + hex(s[1]) + hex(s[2]) + hex(s[3]);
+  }
+  function setCookie(name, value, expires){
+       document.cookie = name+"="+ value+";expires=" + expires + ";path=/";
+      }
+  function getCookie(name) {
+    const value = `; ${document.cookie}`;
+    const parts = value.split(`; ${name}=`);
+    if (parts.length === 2) return parts.pop().split(';').shift();
+  }
+  
+  function gtmid(f){
+    let email = f.getValues().Email;
+    if( email ){
+      let ehash = createHash(email);
+      dataLayer.push({'user_id': ehash });
+      setCookie('gtmid', ehash, 'Thu, 31 Dec 2099 23:59:59 GMT');
+    }
+  }
+</script>
+
+
+
+<script src="https://www.influxdata.com/wp-content/plugins/ank-prism-for-wp/out/prism-js.min.js?ver=1602302467"></script>
+
+<div id='search-container' style='display:none'>
+  <input id="docsearch" type='text' placeholder="Search..." />
+  <i id='search-close' class="fas fa-close"></i>
+</div>
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/docsearch.js/2.6.3/docsearch.min.css" />
+<style>
+  #search-init { 
+    display: inline: block;
+    margin-left: 20px;
+    cursor: pointer;
+  }
+  #search-container {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    background-color: #020a47;
+    padding: 5px;
+    color: #fff;
+    z-index: 9999;
+  }
+  #search-container input {
+    background-color: transparent;
+    color: inherit;
+    width: 100%;
+    display: block;
+    border: none;
+    font-size: 1.2em;
+    min-width: 400px;
+    margin: 20px;
+    padding: 20px;
+  }
+
+  #search-container ::-webkit-input-placeholder {
+  color: #fff;
+}
+
+  #docsearch:focus-visible {
+    outline: none;
+  }
+  
+  #search-container #search-close {
+    display: block;
+    float: right;
+    margin-top: 40px;
+    margin-right: 20px;
+    font-size: 26px;
+  }
+  
+  .algolia-docsearch-footer { display: none; }
+</style>
+
+<!-- script src="https://cdnjs.cloudflare.com/ajax/libs/docsearch.js/2.6.3/docsearch.min.js"></script -->
+<script src="/javascripts/docsearch-49d03e8e.js"></script>
+
+<script>
+
+  var ds = docsearch({
+    inputSelector: '#docsearch',
+    apiKey: '637a8fbb3d9195b296ab6367ebe3fd3a',
+    appId: 'A09V5NRS1W',
+    indexName: 'influx_www_full',
+    debug: false
+  });
+
+  $(document).ready(function(){
+    $('#search-init').on('click',function(){
+      $('#search-container').show()
+      $('#docsearch').val('').focus();
+    });
+    $('#search-close').on('click',function(){
+      $('#search-container').hide()
+    });
+  });
+
+</script>
+
+
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WXRH9C"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<style>
+.navbar-dropdown-extender {
+position: absolute;
+right: 6px;
+width: 30px;
+height: 30px;
+top: 5px;
+}
+.mktoError { color: red }
+</style>
+
+
+<script type="text/javascript" src="//script.crazyegg.com/pages/scripts/0080/4231.js" async="async" ></script>
+
+ <script>
+        // Function to set a cookie
+        function setCookie(name, value, days) {
+            var expires = "";
+            if (days) {
+                var date = new Date();
+                date.setTime(date.getTime() + (days*24*60*60*1000));
+                expires = "; expires=" + date.toUTCString();
+            }
+            var cookieString = name + "=" + (value || "")  + expires + "; path=/"; // Define cookieString variable here
+            document.cookie = cookieString; // Set the cookie using cookieString
+            console.log(`Setting cookie: ${cookieString}`);
+        }
+
+        // Function to get the current page path
+        function getPagePath() {
+            return window.location.pathname + window.location.search;
+        }
+
+        // Main function to check the URL and set the cookie
+        function checkURLAndSetCookie() {
+            var path = getPagePath();
+            console.log(`Current path: ${path}`);
+            if (path.includes("/influxdata-pricing") || path.includes("/get-influxdb-start")) {
+                setCookie("contrl", "true", 7); // Set cookie 'con' for 7 days
+            } else if (path.includes("/influxdbpricing") || path.includes("/getinfluxdb")) {
+                setCookie("list", "true", 7); // Set cookie 'list' for 7 days
+            } else if (path.includes("/influx-pricing") || path.includes("/get-influx")) {
+                setCookie("open", "true", 7); // Set cookie 'open' for 7 days
+            }
+        }
+
+        // Run the function when the page loads
+        window.onload = checkURLAndSetCookie;
+    </script>
+
+</body>
+</html>
