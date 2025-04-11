@@ -1,22 +1,13 @@
 .testimonials-container {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: stretch;
     gap: 2rem;
     padding: 2rem;
     max-width: 1200px;
     margin: 0 auto;
-}
-
-@media (max-width: 1024px) {
-    .testimonials-container {
-        grid-template-columns: repeat(2, 1fr);
-    }
-}
-
-@media (max-width: 768px) {
-    .testimonials-container {
-        grid-template-columns: 1fr;
-    }
+    flex-wrap: nowrap;
 }
 
 .testimonial-card {
@@ -25,7 +16,9 @@
     padding: 1.5rem;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
     transition: transform 0.3s ease;
-    width: 100%;
+    flex: 1;
+    min-width: 300px;
+    max-width: 350px;
     display: flex;
     flex-direction: column;
 }
@@ -116,4 +109,21 @@
 .comment-link i,
 .github-link i {
     font-size: 1rem;
+}
+
+@media (max-width: 1024px) {
+    .testimonials-container {
+        flex-wrap: wrap;
+    }
+    
+    .testimonial-card {
+        flex: 1 1 calc(50% - 2rem);
+        min-width: 250px;
+    }
+}
+
+@media (max-width: 768px) {
+    .testimonial-card {
+        flex: 1 1 100%;
+    }
 } 
