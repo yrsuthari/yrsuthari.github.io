@@ -1,0 +1,80 @@
+.testimonial-card {
+    background: var(--card-bg);
+    border-radius: 12px;
+    padding: 1.5rem;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease;
+    margin: 1rem;
+    max-width: 400px;
+}
+
+.testimonial-card:hover {
+    transform: translateY(-5px);
+}
+
+.testimonial-header {
+    display: flex;
+    align-items: center;
+    margin-bottom: 1rem;
+}
+
+.testimonial-avatar {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    margin-right: 1rem;
+    border: 3px solid var(--primary-color);
+}
+
+.testimonial-author h4 {
+    margin: 0;
+    color: var(--text-color);
+    font-size: 1.1rem;
+}
+
+.testimonial-author p {
+    margin: 0.2rem 0 0;
+    color: var(--secondary-text);
+    font-size: 0.9rem;
+}
+
+.testimonial-text {
+    margin: 1rem 0;
+    padding: 1rem;
+    background: rgba(255, 255, 255, 0.05);
+    border-radius: 8px;
+    border-left: 4px solid var(--primary-color);
+}
+
+.testimonial-text p {
+    margin: 0;
+    font-style: italic;
+    color: var(--text-color);
+}
+
+.testimonial-footer {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 1rem;
+    padding-top: 1rem;
+    border-top: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.testimonial-footer a {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    color: var(--primary-color);
+    text-decoration: none;
+    font-size: 0.9rem;
+    transition: color 0.3s ease;
+}
+
+.testimonial-footer a:hover {
+    color: var(--accent-color);
+}
+
+.comment-link i,
+.github-link i {
+    font-size: 1rem;
+} 
