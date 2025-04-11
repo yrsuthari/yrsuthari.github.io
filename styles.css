@@ -1,15 +1,33 @@
+.testimonials-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 2rem;
+    padding: 2rem;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
 .testimonial-card {
     background: var(--card-bg);
     border-radius: 12px;
     padding: 1.5rem;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
     transition: transform 0.3s ease;
-    margin: 1rem;
-    max-width: 400px;
+    width: 350px;
+    flex: 0 0 auto;
+    display: flex;
+    flex-direction: column;
 }
 
 .testimonial-card:hover {
     transform: translateY(-5px);
+}
+
+.testimonial-content {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
 }
 
 .testimonial-header {
@@ -31,6 +49,7 @@
     display: flex;
     flex-direction: column;
     justify-content: center;
+    flex: 1;
 }
 
 .author-info h4 {
@@ -53,6 +72,7 @@
     background: rgba(255, 255, 255, 0.05);
     border-radius: 8px;
     border-left: 4px solid var(--primary-color);
+    flex: 1;
 }
 
 .testimonial-text p {
@@ -64,7 +84,7 @@
 .testimonial-footer {
     display: flex;
     justify-content: space-between;
-    margin-top: 1rem;
+    margin-top: auto;
     padding-top: 1rem;
     border-top: 1px solid rgba(255, 255, 255, 0.1);
 }
