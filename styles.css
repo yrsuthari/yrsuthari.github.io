@@ -293,4 +293,17 @@
     .testimonials .projects-grid {
         grid-template-columns: 1fr;
     }
+}
+
+.testimonials .projects-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+    gap: 2rem;
+    padding: 2rem 0;
+}
+
+@media (max-width: 768px) {
+    .testimonials .projects-grid {
+        grid-template-columns: 1fr;
+    }
 } 
