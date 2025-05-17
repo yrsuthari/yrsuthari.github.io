@@ -438,10 +438,12 @@ section {
 
 /* Skills Section */
 .skills-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-    gap: var(--spacing-md);
+    display: flex;
+    flex-wrap: nowrap;                      /* Force cards into one row */
+    gap: var(--spacing-md);                 /* Maintain spacing between cards */
     margin-top: var(--spacing-lg);
+    overflow-x: auto;                       /* Enable horizontal scroll on small screens */
+    padding-bottom: var(--spacing-md);      /* Optional: gives breathing room */
 }
 
 .skill-card {
@@ -451,6 +453,10 @@ section {
     text-align: center;
     transition: transform var(--transition-normal);
     opacity: 0;
+
+    flex: 0 0 auto;                         /* Prevent shrinking */
+    min-width: 240px;                       /* Ensure consistent width for scrolling */
+    max-width: 260px;                       /* Optional: control width range */
 }
 
 .skill-card.slide-up {
